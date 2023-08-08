@@ -13,7 +13,7 @@
 
 template <typename T>
 inline TreeNode<T>* loadNode(vector<T> &arr, int index){
-    if(index >= arr.size()) return nullptr;
+    if(index >= arr.size() || arr[index] == INT_MIN) return nullptr;
     
     TreeNode<T> *root = new TreeNode<T>(arr[index]);
     root->left = loadNode(arr, 2 * index + 1);
