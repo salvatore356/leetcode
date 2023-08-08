@@ -13,8 +13,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
-|144| Binary Tree Preorder Traversal
- | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
+|144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
 |226| Invert Binary Tree | [C++](./cpp/LeetCode/Problems/Easy/InvertBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/226-invert-binary-tree/) |
 ## Getting Started
 
