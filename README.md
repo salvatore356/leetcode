@@ -15,6 +15,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |---| ----- | -------- | ---------- | ----------- |
 |144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
 |145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
+|222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |
 |226| Invert Binary Tree | [C++](./cpp/LeetCode/Problems/Easy/InvertBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/226-invert-binary-tree/) |
 ## Getting Started
 

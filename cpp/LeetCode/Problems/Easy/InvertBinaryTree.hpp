@@ -11,8 +11,7 @@
 #include <stdio.h>
 #include "../../Utils/Utils.hpp"
 
-/* Given the root of a binary tree, invert the tree, and return its root.
- */
+/** Given the root of a binary tree, invert the tree, and return its root. **/
 
 namespace InverTree {
 
