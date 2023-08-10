@@ -10,10 +10,9 @@
 #include "Problems/Easy/BinaryTreePreorderTraversal.hpp"
 #include "Problems/Easy/BinaryTreePostorderTraversal.hpp"
 #include "Problems/Easy/CountCompleteTreeNodes.hpp"
+#include "Problems/Easy/SameTree.hpp"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    //InverTree::test();
-    CountCompleteTreeNodes::test();
+    SameTree::test();
     return 0;
 }
