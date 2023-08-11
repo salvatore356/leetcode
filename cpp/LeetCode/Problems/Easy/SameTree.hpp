@@ -10,11 +10,13 @@
 
 #include <stdio.h>
 
+#include "../../Utils/Utils.hpp"
+
 namespace SameTree {
     bool inorder(TreeNode<int>* p, TreeNode<int>* q){
-        if(p == NULL && q == NULL) return true;
-        else if(p == NULL && q != NULL) return false;
-        else if(p != NULL && q == NULL) return false;
+        if(p == nullptr && q == nullptr) return true;
+        else if(p == nullptr && q != nullptr) return false;
+        else if(p != nullptr && q == nullptr) return false;
         else if(p->val != q->val) return false;
 
         return inorder(p->left, q->left) && inorder(p->right, q->right);

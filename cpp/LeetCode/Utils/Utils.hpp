@@ -64,7 +64,16 @@ bool compareArrays(vector<T> &A, vector<T> &B) {
 void printArray(vector<int> &arr) {
     
     for(int i = 0; i < arr.size(); ++i)
-        printf("%d ", arr[i]);
+        if(arr[i] == INT_MIN) printf("null ");
+        else printf("%d ", arr[i]);
+    printf("\n");
+    
+}
+
+void printArray(vector<string> &arr) {
+    
+    for(int i = 0; i < arr.size(); ++i)
+        printf("%s ", arr[i].c_str());
     printf("\n");
     
 }

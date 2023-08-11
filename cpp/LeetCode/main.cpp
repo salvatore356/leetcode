@@ -11,8 +11,10 @@
 #include "Problems/Easy/BinaryTreePostorderTraversal.hpp"
 #include "Problems/Easy/CountCompleteTreeNodes.hpp"
 #include "Problems/Easy/SameTree.hpp"
+#include "Problems/Easy/BinaryTreePaths.hpp"
+
 
 int main(int argc, const char * argv[]) {
-    SameTree::test();
+    BinaryTreePaths::test();
     return 0;
 }
