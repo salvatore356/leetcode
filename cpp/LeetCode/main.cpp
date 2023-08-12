@@ -12,9 +12,11 @@
 #include "Problems/Easy/CountCompleteTreeNodes.hpp"
 #include "Problems/Easy/SameTree.hpp"
 #include "Problems/Easy/BinaryTreePaths.hpp"
+#include "Problems/Easy/FindModeInBinarySearchTree.hpp"
+#include "Problems/Easy/SumOfLeftLeaves.hpp"
 
 
 int main(int argc, const char * argv[]) {
-    BinaryTreePaths::test();
+    SumOfLeftLeaves::test();
     return 0;
 }
