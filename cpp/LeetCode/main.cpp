@@ -14,9 +14,10 @@
 #include "Problems/Easy/BinaryTreePaths.hpp"
 #include "Problems/Easy/FindModeInBinarySearchTree.hpp"
 #include "Problems/Easy/SumOfLeftLeaves.hpp"
+#include "Problems/Easy/MinimumAbsoluteDifferenceInBST.hpp"
 
 
 int main(int argc, const char * argv[]) {
-    SumOfLeftLeaves::test();
+    MinimumAbsoluteDifferenceInBST::test();
     return 0;
 }

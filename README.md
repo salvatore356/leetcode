@@ -21,6 +21,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |257| Binary Tree Paths | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreePaths.hpp) | Easy | [here](https://blog.salvatorelabs.com/257-binary-tree-paths/) |
 |404| Sum of Left Leaves | [C++](./cpp/LeetCode/Problems/Easy/SumOfLeftLeaves.hpp) | Easy | [here](https://blog.salvatorelabs.com/404-sum-of-left-leaves/) |
 |501| Find Mode in Binary Search Tree | [C++](./cpp/LeetCode/Problems/Easy/FindModeInBinarySearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/501-find-mode-in-binary-search-tree/) |
+|530| Minimum Absolute Difference in BST | [C++](./cpp/LeetCode/Problems/Easy/MinimumAbsoluteDifferenceInBST.hpp) | Easy | [here](https://blog.salvatorelabs.com/530-minimum-absolute-difference-in-bst/) |
 ## Getting Started
 
 To explore solutions for specific challenges, simply locate the suitable file corresponding to the problem's name. Inside, you'll discover the code implementation, along with the opportunity to delve deeper into additional insights provided in the accompanying blog post explanation.
