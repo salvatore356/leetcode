@@ -41,13 +41,12 @@ namespace CountCompleteTreeNodes {
     };
 
     inline void test() {
-        vector<int> t = {};
+        
         for(int i = 0; i < cases.size(); ++i) {
             TreeNode<int> *tree =  loadTree(cases[i]);
             int solution = countNodes(tree);
             
             bool passed = solution == expected[i];
-            
             
             printf("Case %d passed %d\n", (i + 1), passed );
             printf("input:\t\t");

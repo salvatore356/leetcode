@@ -15,9 +15,11 @@
 #include "Problems/Easy/FindModeInBinarySearchTree.hpp"
 #include "Problems/Easy/SumOfLeftLeaves.hpp"
 #include "Problems/Easy/MinimumAbsoluteDifferenceInBST.hpp"
+#include "Problems/Easy/DiameterOfBinaryTree.hpp"
+
 
 
 int main(int argc, const char * argv[]) {
-    MinimumAbsoluteDifferenceInBST::test();
+    DiameterOfBinaryTree::test();
     return 0;
 }

@@ -45,7 +45,7 @@ namespace SameTree {
     };
 
     inline void test() {
-        vector<int> t = {};
+        
         for(int i = 0; i < treesP.size(); ++i) {
             TreeNode<int> *p =  loadTree(treesP[i]);
             TreeNode<int> *q =  loadTree(treesQ[i]);

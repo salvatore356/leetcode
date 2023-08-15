@@ -49,7 +49,7 @@ namespace MinimumAbsoluteDifferenceInBST {
     };
 
     inline void test() {
-        vector<int> t = {};
+        
         for(int i = 0; i < cases.size(); ++i) {
             TreeNode<int> *tree =  loadTree(cases[i]);
             
@@ -69,6 +69,5 @@ namespace MinimumAbsoluteDifferenceInBST {
         }
     }
 
-    
 }
 #endif /* MinimumAbsoluteDifferenceInBST_hpp */

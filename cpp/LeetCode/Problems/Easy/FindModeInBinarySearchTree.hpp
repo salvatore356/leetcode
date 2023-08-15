@@ -59,7 +59,7 @@ namespace FindModeInBinarySearchTree {
     };
 
     inline void test() {
-        vector<int> t = {};
+        
         for(int i = 0; i < cases.size(); ++i) {
             TreeNode<int> *tree =  loadTree(cases[i]);
             
