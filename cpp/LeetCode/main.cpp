@@ -16,10 +16,12 @@
 #include "Problems/Easy/SumOfLeftLeaves.hpp"
 #include "Problems/Easy/MinimumAbsoluteDifferenceInBST.hpp"
 #include "Problems/Easy/DiameterOfBinaryTree.hpp"
+#include "Problems/Easy/BinaryTreeTilt.hpp"
+
 
 
 
 int main(int argc, const char * argv[]) {
-    DiameterOfBinaryTree::test();
+    BinaryTreeTilt::test();
     return 0;
 }
