@@ -17,11 +17,12 @@
 #include "Problems/Easy/MinimumAbsoluteDifferenceInBST.hpp"
 #include "Problems/Easy/DiameterOfBinaryTree.hpp"
 #include "Problems/Easy/BinaryTreeTilt.hpp"
+#include "Problems/Easy/SubtreeOfAnotherTree.hpp"
 
 
 
 
 int main(int argc, const char * argv[]) {
-    BinaryTreeTilt::test();
+    SubtreeOfAnotherTree::test();
     return 0;
 }

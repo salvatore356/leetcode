@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9D09377A2A8CF32900B9A545 /* SubtreeOfAnotherTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubtreeOfAnotherTree.hpp; sourceTree = "<group>"; };
 		9D110DFB2A822FD300535A57 /* BinaryTreePreorderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreePreorderTraversal.hpp; sourceTree = "<group>"; };
 		9D110DFE2A823B9200535A57 /* BinaryTreePostorderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreePostorderTraversal.hpp; sourceTree = "<group>"; };
 		9D110E112A84D4B500535A57 /* CountCompleteTreeNodes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CountCompleteTreeNodes.hpp; sourceTree = "<group>"; };
@@ -108,6 +109,7 @@
 				9D110E2E2A8A265A00535A57 /* MinimumAbsoluteDifferenceInBST.hpp */,
 				9D110E312A8A2DC000535A57 /* DiameterOfBinaryTree.hpp */,
 				9D110E342A8B8F6900535A57 /* BinaryTreeTilt.hpp */,
+				9D09377A2A8CF32900B9A545 /* SubtreeOfAnotherTree.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

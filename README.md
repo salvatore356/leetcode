@@ -24,6 +24,9 @@ The project is structured based on the difficulty of the problems. Each difficul
 |530| Minimum Absolute Difference in BST | [C++](./cpp/LeetCode/Problems/Easy/MinimumAbsoluteDifferenceInBST.hpp) | Easy | [here](https://blog.salvatorelabs.com/530-minimum-absolute-difference-in-bst/) |
 |543| Diameter of Binary Tree | [C++](./cpp/LeetCode/Problems/Easy/DiameterOfBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/543-diameter-of-binary-tree/) |
 |563| Binary Tree Tilt | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreeTilt.hpp) | Easy | [here](https://blog.salvatorelabs.com/563-binary-tree-tilt/) |
+|572| Subtree of Another Tree | [C++](./cpp/LeetCode/Problems/Easy/SubtreeOfAnotherTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/572-subtree-of-another-tree/) |
+
+
 ## Getting Started
 
 To explore solutions for specific challenges, simply locate the suitable file corresponding to the problem's name. Inside, you'll discover the code implementation, along with the opportunity to delve deeper into additional insights provided in the accompanying blog post explanation.

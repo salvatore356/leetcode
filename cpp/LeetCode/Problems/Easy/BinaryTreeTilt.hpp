@@ -10,6 +10,8 @@
 
 #include <stdio.h>
 
+#include "../../Utils/Utils.hpp"
+
 namespace BinaryTreeTilt {
 
     int sumTilt(TreeNode<int> *node, int &total) {
