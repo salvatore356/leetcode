@@ -24,6 +24,8 @@
 
 /* Begin PBXFileReference section */
 		9D09377A2A8CF32900B9A545 /* SubtreeOfAnotherTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubtreeOfAnotherTree.hpp; sourceTree = "<group>"; };
+		9D09378B2A8F7EEA00B9A545 /* ConstructStringFromBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConstructStringFromBinaryTree.hpp; sourceTree = "<group>"; };
+		9D09378F2A8F80A800B9A545 /* BinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTree.hpp; sourceTree = "<group>"; };
 		9D110DFB2A822FD300535A57 /* BinaryTreePreorderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreePreorderTraversal.hpp; sourceTree = "<group>"; };
 		9D110DFE2A823B9200535A57 /* BinaryTreePostorderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreePostorderTraversal.hpp; sourceTree = "<group>"; };
 		9D110E112A84D4B500535A57 /* CountCompleteTreeNodes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CountCompleteTreeNodes.hpp; sourceTree = "<group>"; };
@@ -52,6 +54,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9D09378D2A8F7FFF00B9A545 /* BinaryTree */ = {
+			isa = PBXGroup;
+			children = (
+				9D09378F2A8F80A800B9A545 /* BinaryTree.hpp */,
+				9DF754112A7E1D0700876AA7 /* Easy */,
+			);
+			path = BinaryTree;
+			sourceTree = "<group>";
+		};
 		9DF753F92A7E1B1B00876AA7 = {
 			isa = PBXGroup;
 			children = (
@@ -90,7 +101,7 @@
 		9DF754102A7E1CFC00876AA7 /* Problems */ = {
 			isa = PBXGroup;
 			children = (
-				9DF754112A7E1D0700876AA7 /* Easy */,
+				9D09378D2A8F7FFF00B9A545 /* BinaryTree */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -110,6 +121,7 @@
 				9D110E312A8A2DC000535A57 /* DiameterOfBinaryTree.hpp */,
 				9D110E342A8B8F6900535A57 /* BinaryTreeTilt.hpp */,
 				9D09377A2A8CF32900B9A545 /* SubtreeOfAnotherTree.hpp */,
+				9D09378B2A8F7EEA00B9A545 /* ConstructStringFromBinaryTree.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

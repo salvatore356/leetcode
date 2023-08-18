@@ -1,32 +1,31 @@
 //
-//  BinaryTreePostorderTraversal.hpp
+//  BinaryTreePreorderTraversal.hpp
 //  LeetCode
 //
 //  Created by Salvatore on 8/8/23.
 //
 
-#ifndef BinaryTreePostorderTraversal_hpp
-#define BinaryTreePostorderTraversal_hpp
+#ifndef BinaryTreePreorderTraversal_hpp
+#define BinaryTreePreorderTraversal_hpp
 
 #include <stdio.h>
-#include "../../Utils/Utils.hpp"
+
+#include "../../../Utils/Utils.hpp"
 
 /** Given the root of a binary tree, return the preorder traversal of its nodes' values. **/
 
-namespace PostOrderTraversal {
-
-    void postOrderNode(vector<int> &arr, TreeNode<int> *node){
+namespace PreOrderTraversal {
+    void preOrderNode(vector<int> &arr, TreeNode<int> *node){
         if(node == nullptr) return;
         
-        postOrderNode(arr, node->left);
-        postOrderNode(arr, node->right);
-        
         arr.push_back(node->val);
+        preOrderNode(arr, node->left);
+        preOrderNode(arr, node->right);
     }
 
-    vector<int> postOrderTraversal(TreeNode<int>* root) {
+    vector<int> preOrderTraversal(TreeNode<int>* root) {
         vector<int> ans;
-        postOrderNode(ans, root);
+        preOrderNode(ans, root);
         return ans;
     }
 
@@ -37,7 +36,7 @@ namespace PostOrderTraversal {
     };
 
     vector<vector<int>> expected = {
-        {3, 2, 1},
+        {1, 2, 3},
         {},
         {1},
     };
@@ -46,7 +45,7 @@ namespace PostOrderTraversal {
         
         for(int i = 0; i < cases.size(); ++i) {
             TreeNode<int> *tree =  loadTree(cases[i]);
-            vector<int> solution = postOrderTraversal(tree);
+            vector<int> solution = preOrderTraversal(tree);
             
             bool passed = compareArrays(solution, expected[i]);
             
@@ -61,7 +60,5 @@ namespace PostOrderTraversal {
             printf("\n");
         }
     }
-
-    
 }
-#endif /* BinaryTreePostorderTraversal_hpp */
+#endif /* BinaryTreePreorderTraversal_hpp */

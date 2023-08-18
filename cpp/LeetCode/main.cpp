@@ -6,23 +6,10 @@
 //
 
 #include <iostream>
-#include "Problems/Easy/InvertBinaryTree.hpp"
-#include "Problems/Easy/BinaryTreePreorderTraversal.hpp"
-#include "Problems/Easy/BinaryTreePostorderTraversal.hpp"
-#include "Problems/Easy/CountCompleteTreeNodes.hpp"
-#include "Problems/Easy/SameTree.hpp"
-#include "Problems/Easy/BinaryTreePaths.hpp"
-#include "Problems/Easy/FindModeInBinarySearchTree.hpp"
-#include "Problems/Easy/SumOfLeftLeaves.hpp"
-#include "Problems/Easy/MinimumAbsoluteDifferenceInBST.hpp"
-#include "Problems/Easy/DiameterOfBinaryTree.hpp"
-#include "Problems/Easy/BinaryTreeTilt.hpp"
-#include "Problems/Easy/SubtreeOfAnotherTree.hpp"
 
-
-
+#include "Problems/BinaryTree/BinaryTree.hpp"
 
 int main(int argc, const char * argv[]) {
-    SubtreeOfAnotherTree::test();
+    ConstructStringFromBinaryTree::test();
     return 0;
 }

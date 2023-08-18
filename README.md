@@ -13,18 +13,19 @@ The project is structured based on the difficulty of the problems. Each difficul
 
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
-|100| Same Tree | [C++](./cpp/LeetCode/Problems/Easy/SameTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/100-same-tree/) |
-|144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
-|145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
-|222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |
-|226| Invert Binary Tree | [C++](./cpp/LeetCode/Problems/Easy/InvertBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/226-invert-binary-tree/) |
-|257| Binary Tree Paths | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreePaths.hpp) | Easy | [here](https://blog.salvatorelabs.com/257-binary-tree-paths/) |
-|404| Sum of Left Leaves | [C++](./cpp/LeetCode/Problems/Easy/SumOfLeftLeaves.hpp) | Easy | [here](https://blog.salvatorelabs.com/404-sum-of-left-leaves/) |
-|501| Find Mode in Binary Search Tree | [C++](./cpp/LeetCode/Problems/Easy/FindModeInBinarySearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/501-find-mode-in-binary-search-tree/) |
-|530| Minimum Absolute Difference in BST | [C++](./cpp/LeetCode/Problems/Easy/MinimumAbsoluteDifferenceInBST.hpp) | Easy | [here](https://blog.salvatorelabs.com/530-minimum-absolute-difference-in-bst/) |
-|543| Diameter of Binary Tree | [C++](./cpp/LeetCode/Problems/Easy/DiameterOfBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/543-diameter-of-binary-tree/) |
-|563| Binary Tree Tilt | [C++](./cpp/LeetCode/Problems/Easy/BinaryTreeTilt.hpp) | Easy | [here](https://blog.salvatorelabs.com/563-binary-tree-tilt/) |
-|572| Subtree of Another Tree | [C++](./cpp/LeetCode/Problems/Easy/SubtreeOfAnotherTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/572-subtree-of-another-tree/) |
+|100| Same Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SameTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/100-same-tree/) |
+|144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
+|145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
+|222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |
+|226| Invert Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/InvertBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/226-invert-binary-tree/) |
+|257| Binary Tree Paths | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePaths.hpp) | Easy | [here](https://blog.salvatorelabs.com/257-binary-tree-paths/) |
+|404| Sum of Left Leaves | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SumOfLeftLeaves.hpp) | Easy | [here](https://blog.salvatorelabs.com/404-sum-of-left-leaves/) |
+|501| Find Mode in Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/FindModeInBinarySearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/501-find-mode-in-binary-search-tree/) |
+|530| Minimum Absolute Difference in BST | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/MinimumAbsoluteDifferenceInBST.hpp) | Easy | [here](https://blog.salvatorelabs.com/530-minimum-absolute-difference-in-bst/) |
+|543| Diameter of Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/DiameterOfBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/543-diameter-of-binary-tree/) |
+|563| Binary Tree Tilt | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreeTilt.hpp) | Easy | [here](https://blog.salvatorelabs.com/563-binary-tree-tilt/) |
+|572| Subtree of Another Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SubtreeOfAnotherTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/572-subtree-of-another-tree/) |
+|606| Construct String from Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/ConstructStringFromBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/606-construct-string-from-binary-tree/) |
 
 
 ## Getting Started

@@ -10,9 +10,10 @@
 
 #include <stdio.h>
 
-#include "../../Utils/Utils.hpp"
+#include "../../../Utils/Utils.hpp"
 
 namespace SameTree {
+
     bool inorder(TreeNode<int>* p, TreeNode<int>* q){
         if(p == nullptr && q == nullptr) return true;
         else if(p == nullptr && q != nullptr) return false;

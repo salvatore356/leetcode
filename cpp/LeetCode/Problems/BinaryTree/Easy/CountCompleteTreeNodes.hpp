@@ -9,7 +9,8 @@
 #define CountCompleteTreeNodes_hpp
 
 #include <stdio.h>
-#include "../../Utils/Utils.hpp"
+
+#include "../../../Utils/Utils.hpp"
 
 /**
  Given the root of a complete binary tree, return the number of the nodes in the tree.

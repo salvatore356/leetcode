@@ -9,7 +9,8 @@
 #define InvertBinaryTree_hpp
 
 #include <stdio.h>
-#include "../../Utils/Utils.hpp"
+
+#include "../../../Utils/Utils.hpp"
 
 /** Given the root of a binary tree, invert the tree, and return its root. **/
 
