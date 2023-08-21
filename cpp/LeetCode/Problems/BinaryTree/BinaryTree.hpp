@@ -23,6 +23,7 @@
 #include "Easy/BinaryTreeTilt.hpp"
 #include "Easy/SubtreeOfAnotherTree.hpp"
 #include "Easy/ConstructStringFromBinaryTree.hpp"
+#include "Easy/MergeTwoBinaryTrees.hpp"
 
 
 #endif /* BinaryTree_hpp */

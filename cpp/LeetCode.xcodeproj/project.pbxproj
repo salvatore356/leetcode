@@ -41,6 +41,7 @@
 		9DF7540E2A7E1C9000876AA7 /* TreeNode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TreeNode.hpp; sourceTree = "<group>"; };
 		9DF754132A7E1D2000876AA7 /* InvertBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = InvertBinaryTree.hpp; sourceTree = "<group>"; };
 		9DF754172A7E235400876AA7 /* Utils.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Utils.hpp; sourceTree = "<group>"; };
+		9DFA4A412A93673D00E44DDC /* MergeTwoBinaryTrees.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MergeTwoBinaryTrees.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +123,7 @@
 				9D110E342A8B8F6900535A57 /* BinaryTreeTilt.hpp */,
 				9D09377A2A8CF32900B9A545 /* SubtreeOfAnotherTree.hpp */,
 				9D09378B2A8F7EEA00B9A545 /* ConstructStringFromBinaryTree.hpp */,
+				9DFA4A412A93673D00E44DDC /* MergeTwoBinaryTrees.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

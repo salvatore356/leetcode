@@ -29,8 +29,12 @@ inline TreeNode<T>* loadTree(vector<T> &arr){
 }
 
 template <typename T>
-void convertTreeToArray(TreeNode<T> *root, std::vector<T> &arr, int index) {
+void convertTreeToArray(TreeNode<T> *root, std::vector<T> &arr, int index, bool mandatory) {
     if (root == nullptr) {
+        if(index == arr.size() && mandatory){
+            arr.resize(index + 1);
+            arr[index] = INT_MIN;
+        }
         return; // Skip null nodes
     }
 
@@ -40,14 +44,14 @@ void convertTreeToArray(TreeNode<T> *root, std::vector<T> &arr, int index) {
     }
 
     arr[index] = root->val;
-    convertTreeToArray(root->left, arr, 2 * index + 1);
-    convertTreeToArray(root->right, arr, 2 * index + 2);
+    convertTreeToArray(root->left, arr, 2 * index + 1, root->right != nullptr);
+    convertTreeToArray(root->right, arr, 2 * index + 2, false);
 }
 
 template <typename T>
 std::vector<T> treeToArray(TreeNode<T> *root) {
     std::vector<T> arr;
-    convertTreeToArray(root, arr, 0);
+    convertTreeToArray(root, arr, 0, false);
     return arr;
 }
 
