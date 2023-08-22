@@ -10,6 +10,6 @@
 #include "Problems/BinaryTree/BinaryTree.hpp"
 
 int main(int argc, const char * argv[]) {
-    MergeTwoBinaryTrees::test();
+    AverageOfLevelsInBinaryTree::test();
     return 0;
 }

@@ -24,6 +24,8 @@
 #include "Easy/SubtreeOfAnotherTree.hpp"
 #include "Easy/ConstructStringFromBinaryTree.hpp"
 #include "Easy/MergeTwoBinaryTrees.hpp"
+#include "Easy/AverageOfLevelsInBinaryTree.hpp"
+
 
 
 #endif /* BinaryTree_hpp */

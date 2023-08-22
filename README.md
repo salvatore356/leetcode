@@ -27,6 +27,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |572| Subtree of Another Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SubtreeOfAnotherTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/572-subtree-of-another-tree/) |
 |606| Construct String from Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/ConstructStringFromBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/606-construct-string-from-binary-tree/) |
 |617| Merge Two Binary Trees | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/MergeTwoBinaryTrees.hpp) | Easy | [here](https://blog.salvatorelabs.com/617-merge-two-binary-trees/) |
+|637| Merge Two Binary Trees | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/AverageOfLevelsInBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/637-average-of-levels-in-binary-tree/) |
 
 
 ## Getting Started
