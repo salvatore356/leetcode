@@ -37,6 +37,7 @@
 		9D110E312A8A2DC000535A57 /* DiameterOfBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DiameterOfBinaryTree.hpp; sourceTree = "<group>"; };
 		9D110E342A8B8F6900535A57 /* BinaryTreeTilt.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeTilt.hpp; sourceTree = "<group>"; };
 		9D6BF1252A950E940078805D /* AverageOfLevelsInBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AverageOfLevelsInBinaryTree.hpp; sourceTree = "<group>"; };
+		9D6BF1282A95F2A40078805D /* TwoSumIV-InputIsA-BST.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "TwoSumIV-InputIsA-BST.hpp"; sourceTree = "<group>"; };
 		9DF754022A7E1B1B00876AA7 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DF754052A7E1B1B00876AA7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9DF7540E2A7E1C9000876AA7 /* TreeNode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TreeNode.hpp; sourceTree = "<group>"; };
@@ -126,6 +127,7 @@
 				9D09378B2A8F7EEA00B9A545 /* ConstructStringFromBinaryTree.hpp */,
 				9DFA4A412A93673D00E44DDC /* MergeTwoBinaryTrees.hpp */,
 				9D6BF1252A950E940078805D /* AverageOfLevelsInBinaryTree.hpp */,
+				9D6BF1282A95F2A40078805D /* TwoSumIV-InputIsA-BST.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

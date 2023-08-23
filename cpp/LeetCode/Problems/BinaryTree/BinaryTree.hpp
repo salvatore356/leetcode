@@ -25,6 +25,7 @@
 #include "Easy/ConstructStringFromBinaryTree.hpp"
 #include "Easy/MergeTwoBinaryTrees.hpp"
 #include "Easy/AverageOfLevelsInBinaryTree.hpp"
+#include "Easy/TwoSumIV-InputIsA-BST.hpp"
 
 
 
