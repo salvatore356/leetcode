@@ -14,6 +14,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
 |100| Same Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SameTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/100-same-tree/) |
+|101| Symmetric Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SymmetricTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/101-symmetric-tree/) |
 |144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
 |145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
 |222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |
