@@ -30,6 +30,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |637| Merge Two Binary Trees | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/AverageOfLevelsInBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/637-average-of-levels-in-binary-tree/) |
 |653| Two Sum IV - Input is a BST | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/TwoSumIV-InputIsA-BST.hpp) | Easy | [here](https://blog.salvatorelabs.com/653-two-sum-iv-input-is-a-bst/) |
 |671| Second Minimum Node In a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SecondMinimumNodeInABinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/671-second-minimum-node-in-a-binary-tree/) |
+|700| Search in a Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SearchInA-BinarySearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/700-search-in-a-binary-search-tree/) |
 
 
 ## Getting Started

@@ -27,6 +27,9 @@
 #include "Easy/AverageOfLevelsInBinaryTree.hpp"
 #include "Easy/TwoSumIV-InputIsA-BST.hpp"
 #include "Easy/SecondMinimumNodeInABinaryTree.hpp"
+#include "Easy/SearchInA-BinarySearchTree.hpp"
+
+
 
 
 
