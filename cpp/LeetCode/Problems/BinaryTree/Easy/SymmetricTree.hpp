@@ -33,8 +33,6 @@ namespace SymmetricTree {
         { 1, 2, 2, INT_MIN, 3, INT_MIN, 3 },
     };
 
-    
-
     vector<bool> expected = {
         true,
         false
