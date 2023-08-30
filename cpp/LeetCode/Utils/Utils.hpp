@@ -55,6 +55,11 @@ std::vector<T> treeToArray(TreeNode<T> *root) {
     return arr;
 }
 
+void parseVector(vector<int> &v) {
+    for(int i = 0; i < v.size(); ++i)
+        if(v[i] == 0) v[i] = INT_MIN;
+}
+
 template <typename T>
 bool compareArrays(vector<T> &A, vector<T> &B) {
     

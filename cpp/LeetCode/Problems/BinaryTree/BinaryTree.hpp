@@ -31,6 +31,8 @@
 #include "Easy/SymmetricTree.hpp"
 #include "Easy/BinaryTreeInorderTraversal.hpp"
 #include "Easy/MinimumDistanceBetweenBSTNodes.hpp"
+#include "Easy/IncreasingOrderSearchTree.hpp"
+
 
 
 
