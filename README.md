@@ -33,6 +33,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |653| Two Sum IV - Input is a BST | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/TwoSumIV-InputIsA-BST.hpp) | Easy | [here](https://blog.salvatorelabs.com/653-two-sum-iv-input-is-a-bst/) |
 |671| Second Minimum Node In a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SecondMinimumNodeInABinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/671-second-minimum-node-in-a-binary-tree/) |
 |700| Search in a Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SearchInA-BinarySearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/700-search-in-a-binary-search-tree/) |
+|783| Minimum Distance Between BST Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/MinimumDistanceBetweenBSTNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/783-minimum-distance-between-bst-nodes/) |
 
 
 ## Getting Started
