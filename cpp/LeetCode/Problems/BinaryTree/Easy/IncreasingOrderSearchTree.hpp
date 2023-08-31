@@ -12,7 +12,6 @@
 
 #include "../../../Utils/Utils.hpp"
 
-
 namespace IncreasingOrderSearchTree {
 
     void increasingBST(TreeNode<int>* root, vector<TreeNode<int>*> &vec) {

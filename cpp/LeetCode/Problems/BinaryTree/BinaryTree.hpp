@@ -32,6 +32,7 @@
 #include "Easy/BinaryTreeInorderTraversal.hpp"
 #include "Easy/MinimumDistanceBetweenBSTNodes.hpp"
 #include "Easy/IncreasingOrderSearchTree.hpp"
+#include "Easy/UnivaluedBinaryTree.hpp"
 
 
 
