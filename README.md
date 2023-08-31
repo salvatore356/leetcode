@@ -37,6 +37,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |897| Increasing Order Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/IncreasingOrderSearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/897-increasing-order-search-tree/) |
 |965| Univalued Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/UnivaluedBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/965-univalued-binary-tree/) |
 |993| Cousins in Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CousinsInBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/993-cousins-in-binary-tree/) |
+|1022| Sum of Root To Leaf Binary Numbers | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SumOfRootToLeafBinaryNumbers.hpp) | Easy | [here](https://blog.salvatorelabs.com/1022-sum-of-root-to-leaf-binary-numbers/) |
 
 
 

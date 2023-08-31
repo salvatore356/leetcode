@@ -34,6 +34,8 @@
 #include "Easy/IncreasingOrderSearchTree.hpp"
 #include "Easy/UnivaluedBinaryTree.hpp"
 #include "Easy/CousinsInBinaryTree.hpp"
+#include "Easy/SumOfRootToLeafBinaryNumbers.hpp"
+
 
 
 
