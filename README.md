@@ -36,6 +36,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |783| Minimum Distance Between BST Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/MinimumDistanceBetweenBSTNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/783-minimum-distance-between-bst-nodes/) |
 |897| Increasing Order Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/IncreasingOrderSearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/897-increasing-order-search-tree/) |
 |965| Univalued Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/UnivaluedBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/965-univalued-binary-tree/) |
+|993| Cousins in Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CousinsInBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/993-cousins-in-binary-tree/) |
 
 
 
