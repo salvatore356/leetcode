@@ -40,6 +40,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |1022| Sum of Root To Leaf Binary Numbers | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SumOfRootToLeafBinaryNumbers.hpp) | Easy | [here](https://blog.salvatorelabs.com/1022-sum-of-root-to-leaf-binary-numbers/) |
 |1379| Find a Corresponding Node of a Binary Tree in a Clone of That Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) |
 |2236| Root Equals Sum of Children | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/RootEqualsSumOfChildren.hpp) | Easy | [here](https://blog.salvatorelabs.com/2236-root-equals-sum-of-children/) |
+|2331| Evaluate Boolean Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/EvaluateBooleanBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/2331-evaluate-boolean-binary-tree/) |
 
 
 
