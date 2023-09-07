@@ -17,6 +17,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |95| Unique Binary Search Trees II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/UniqueBinarySearchTreesII.hpp) | Easy | [here](https://blog.salvatorelabs.com/95-unique-binary-search-trees-ii/) |
 |96| Unique Binary Search Trees | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/UniqueBinarySearchTrees.hpp) | Easy | [here](https://blog.salvatorelabs.com/96-unique-binary-search-trees/) |
 |98| Validate Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/ValidateBinarySearchTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/98-validate-binary-search-tree/) |
+|99| Recover Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/RecoverBinarySearchTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/99-recover-binary-search-tree/) |
 |100| Same Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SameTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/100-same-tree/) |
 |101| Symmetric Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SymmetricTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/101-symmetric-tree/) |
 |144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |

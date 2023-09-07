@@ -43,6 +43,7 @@
 #include "Medium/UniqueBinarySearchTreesII.hpp"
 #include "Medium/UniqueBinarySearchTrees.hpp"
 #include "Medium/ValidateBinarySearchTree.hpp"
+#include "Medium/RecoverBinarySearchTree.hpp"
 
 
 
