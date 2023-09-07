@@ -10,6 +10,8 @@
 
 #include <stdio.h>
 
+#include "../../../Utils/Utils.hpp"
+
 namespace UniqueBinarySearchTrees {
     
     int numTrees(int n) {
