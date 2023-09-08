@@ -45,6 +45,7 @@
 #include "Medium/ValidateBinarySearchTree.hpp"
 #include "Medium/RecoverBinarySearchTree.hpp"
 #include "Medium/BinaryTreeLevelOrderTraversal.hpp"
+#include "Medium/BinaryTreeZigzagLevelOrderTraversal.hpp"
 
 
 

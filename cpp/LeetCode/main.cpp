@@ -10,6 +10,6 @@
 #include "Problems/BinaryTree/BinaryTree.hpp"
 
 int main(int argc, const char * argv[]) {
-    BinaryTreeLevelOrderTraversal::test();
+    BinaryTreeZigzagLevelOrderTraversal::test();
     return 0;
 }
