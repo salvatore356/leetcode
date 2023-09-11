@@ -47,6 +47,8 @@
 #include "Medium/BinaryTreeLevelOrderTraversal.hpp"
 #include "Medium/BinaryTreeZigzagLevelOrderTraversal.hpp"
 #include "Medium/ConstructBinaryTreeFromPreorderAndInorderTraversal.hpp"
+#include "Medium/ConstructBinaryTreeFromInorderAndPostorderTraversal.hpp"
+
 
 
 
