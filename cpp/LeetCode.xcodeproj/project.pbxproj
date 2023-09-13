@@ -38,6 +38,7 @@
 		9D110E2E2A8A265A00535A57 /* MinimumAbsoluteDifferenceInBST.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MinimumAbsoluteDifferenceInBST.hpp; sourceTree = "<group>"; };
 		9D110E312A8A2DC000535A57 /* DiameterOfBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DiameterOfBinaryTree.hpp; sourceTree = "<group>"; };
 		9D110E342A8B8F6900535A57 /* BinaryTreeTilt.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeTilt.hpp; sourceTree = "<group>"; };
+		9D317A652AB1A70000F629EB /* BinaryTreeLevelOrderTraversalII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversalII.hpp; sourceTree = "<group>"; };
 		9D618EFA2AAAFBF1002FF9B0 /* BinaryTreeLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D618EFD2AAB03ED002FF9B0 /* BinaryTreeZigzagLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeZigzagLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D6BF1252A950E940078805D /* AverageOfLevelsInBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AverageOfLevelsInBinaryTree.hpp; sourceTree = "<group>"; };
@@ -100,6 +101,7 @@
 				9D618EFD2AAB03ED002FF9B0 /* BinaryTreeZigzagLevelOrderTraversal.hpp */,
 				9D07CDAF2AAF2873004F929B /* ConstructBinaryTreeFromPreorderAndInorderTraversal.hpp */,
 				9D07CDB52AAF3006004F929B /* ConstructBinaryTreeFromInorderAndPostorderTraversal.hpp */,
+				9D317A652AB1A70000F629EB /* BinaryTreeLevelOrderTraversalII.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
