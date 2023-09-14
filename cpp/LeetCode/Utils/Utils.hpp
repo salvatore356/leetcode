@@ -10,6 +10,7 @@
 
 #include <stdio.h>
 #include "TreeNode.hpp"
+#include "ListNode.hpp"
 
 template <typename T>
 inline TreeNode<T>* loadNode(vector<T> &arr, int index){
@@ -31,16 +32,12 @@ inline TreeNode<T>* loadTree(vector<T> &arr){
 template <typename T>
 void convertTreeToArray(TreeNode<T> *root, std::vector<T> &arr, int index, bool mandatory) {
     if (root == nullptr) {
-        if(index == arr.size() && mandatory){
-            arr.resize(index + 1);
-            arr[index] = INT_MIN;
-        }
         return; // Skip null nodes
     }
 
     // Expand the array if needed
-    if (index >= arr.size()) {
-        arr.resize(index + 1);
+    while (index >= arr.size()) {
+        arr.push_back(INT_MIN); // Initialize with default value
     }
 
     arr[index] = root->val;
@@ -92,4 +89,32 @@ void printArray(vector<string> &arr) {
     printf("\n");
     
 }
+
+template <typename T>
+ListNode<T>* loadList(const vector<T>& items) {
+    if (items.empty()) {
+        return nullptr;
+    }
+
+    ListNode<T>* list = new ListNode<T>(items[0]);
+    auto head = list;
+
+    for (int i = 1; i < items.size(); ++i) {
+        head->next = new ListNode<T>(items[i]);
+        head = head->next;
+    }
+
+    return list;
+}
+
+template <typename T>
+vector<T> listToVector(ListNode<T>* head) {
+    vector<T> result;
+    while (head) {
+        result.push_back(head->val);
+        head = head->next;
+    }
+    return result;
+}
+
 #endif /* Utils_hpp */
