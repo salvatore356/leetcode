@@ -10,6 +10,6 @@
 #include "Problems/BinaryTree/BinaryTree.hpp"
 
 int main(int argc, const char * argv[]) {
-    ConvertSortedListToBinarySearchTree::test();
+    PathSumII::test();
     return 0;
 }
