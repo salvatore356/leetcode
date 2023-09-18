@@ -27,6 +27,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |107| Binary Tree Level Order Traversal II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeLevelOrderTraversalII.hpp) | Medium | [here](https://blog.salvatorelabs.com/107-binary-tree-level-order-traversal-ii/) |
 |109| Convert Sorted List to Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/ConvertSortedListToBinarySearchTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/109-convert-sorted-list-to-binary-search-tree/) |
 |113| Path Sum II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PathSumII.hpp) | Medium | [here](https://blog.salvatorelabs.com/113-path-sum-ii/) |
+|114| Flatten Binary Tree to Linked List | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/FlattenBinaryTreeToLinkedList.hpp) | Medium | [here](https://blog.salvatorelabs.com/114-flatten-binary-tree-to-linked-list/) |
 |144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
 |145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
 |222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |

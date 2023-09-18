@@ -39,6 +39,7 @@
 		9D110E312A8A2DC000535A57 /* DiameterOfBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DiameterOfBinaryTree.hpp; sourceTree = "<group>"; };
 		9D110E342A8B8F6900535A57 /* BinaryTreeTilt.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeTilt.hpp; sourceTree = "<group>"; };
 		9D317A652AB1A70000F629EB /* BinaryTreeLevelOrderTraversalII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversalII.hpp; sourceTree = "<group>"; };
+		9D32D78C2AB87DED00D04446 /* FlattenBinaryTreeToLinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlattenBinaryTreeToLinkedList.hpp; sourceTree = "<group>"; };
 		9D418AA62AB308220014DB1F /* ConvertSortedListToBinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConvertSortedListToBinarySearchTree.hpp; sourceTree = "<group>"; };
 		9D418AA92AB3087D0014DB1F /* ListNode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ListNode.hpp; sourceTree = "<group>"; };
 		9D418AAC2AB44D450014DB1F /* PathSumII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PathSumII.hpp; sourceTree = "<group>"; };
@@ -107,6 +108,7 @@
 				9D317A652AB1A70000F629EB /* BinaryTreeLevelOrderTraversalII.hpp */,
 				9D418AA62AB308220014DB1F /* ConvertSortedListToBinarySearchTree.hpp */,
 				9D418AAC2AB44D450014DB1F /* PathSumII.hpp */,
+				9D32D78C2AB87DED00D04446 /* FlattenBinaryTreeToLinkedList.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
