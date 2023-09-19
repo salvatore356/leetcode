@@ -10,6 +10,8 @@
 
 #include <stdio.h>
 
+#include "../../../Utils/Utils.hpp"
+
 namespace PopulatingNextRightPointersInEachNodeII{
 
     void connectHelper(TreeNode<int> *&root, int currentLevel, vector<vector<TreeNode<int>*>> &levels) {
