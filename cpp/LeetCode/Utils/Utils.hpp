@@ -30,6 +30,19 @@ inline TreeNode<T>* loadTree(vector<T> &arr){
 }
 
 template <typename T>
+void convertTreeToArrayLevels(TreeNode<T> *root, std::vector<std::vector<T>> &arr, int level) {
+    if (root == nullptr) return; // Skip null nodes
+    
+    int nextLevel = level + 1;
+    if ( arr.size() < nextLevel) arr.resize(nextLevel);
+    // Expand the array if needed
+    
+    arr[level].push_back(root->val);
+    convertTreeToArrayLevels(root->left, arr, nextLevel);
+    convertTreeToArrayLevels(root->right, arr, nextLevel);
+}
+
+template <typename T>
 void convertTreeToArray(TreeNode<T> *root, std::vector<T> &arr, int index, bool mandatory) {
     if (root == nullptr) {
         return; // Skip null nodes
@@ -49,6 +62,13 @@ template <typename T>
 std::vector<T> treeToArray(TreeNode<T> *root) {
     std::vector<T> arr;
     convertTreeToArray(root, arr, 0, false);
+    return arr;
+}
+
+template <typename T>
+std::vector<std::vector<T>> treeToArrayLevels(TreeNode<T> *root) {
+    std::vector<std::vector<T>> arr;
+    convertTreeToArrayLevels(root, arr, 0);
     return arr;
 }
 

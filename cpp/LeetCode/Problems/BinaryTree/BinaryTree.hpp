@@ -52,6 +52,7 @@
 #include "Medium/ConvertSortedListToBinarySearchTree.hpp"
 #include "Medium/PathSumII.hpp"
 #include "Medium/FlattenBinaryTreeToLinkedList.hpp"
+#include "Medium/PopulatingNextRightPointersInEachNode.hpp"
 
 
 
