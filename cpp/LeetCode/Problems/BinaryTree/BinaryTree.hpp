@@ -56,6 +56,7 @@
 #include "Medium/PopulatingNextRightPointersInEachNodeII.hpp"
 #include "Medium/SumRootToLeafNumbers.hpp"
 #include "Medium/BinaryTreeRightSideView.hpp"
+#include "Medium/BinarySearchTreeIterator.hpp"
 
 
 
