@@ -30,11 +30,11 @@ The project is structured based on the difficulty of the problems. Each difficul
 |114| Flatten Binary Tree to Linked List | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/FlattenBinaryTreeToLinkedList.hpp) | Medium | [here](https://blog.salvatorelabs.com/114-flatten-binary-tree-to-linked-list/) |
 |116| Populating Next Right Pointers in Each Node | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PopulatingNextRightPointersInEachNode.hpp) | Medium | [here](https://blog.salvatorelabs.com/116-populating-next-right-pointers-in-each-node/) |
 |117| Populating Next Right Pointers in Each Node II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PopulatingNextRightPointersInEachNodeII.hpp) | Medium | [here](https://blog.salvatorelabs.com/117-populating-next-right-pointers-in-each-node-ii/) |
-|119| Binary Tree Right Side View | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeRightSideView.hpp) | Medium | [here](https://blog.salvatorelabs.com/199-binary-tree-right-side-view/) |
 |129| Sum Root to Leaf Numbers | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/SumRootToLeafNumbers.hpp) | Medium | [here](https://blog.salvatorelabs.com/129-sum-root-to-leaf-numbers/) |
 |144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
 |145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
 |173| Binary Search Tree Iterator | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinarySearchTreeIterator.hpp) | Medium | [here](https://blog.salvatorelabs.com/173-binary-search-tree-iterator/) |
+|199| Binary Tree Right Side View | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeRightSideView.hpp) | Medium | [here](https://blog.salvatorelabs.com/199-binary-tree-right-side-view/) |
 |222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |
 |226| Invert Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/InvertBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/226-invert-binary-tree/) |
 |230| Kth Smallest Element in a BST | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/KthSmallestElementInABST.hpp) | Medium | [here](https://blog.salvatorelabs.com/230-kth-smallest-element-in-a-bst/) |
