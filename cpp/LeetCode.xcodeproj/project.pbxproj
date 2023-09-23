@@ -41,6 +41,7 @@
 		9D1E2AD82ABED04E007A662F /* BinaryTreeRightSideView.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeRightSideView.hpp; sourceTree = "<group>"; };
 		9D1E2ADB2ABED2FC007A662F /* BinarySearchTreeIterator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinarySearchTreeIterator.hpp; sourceTree = "<group>"; };
 		9D1E2ADE2ABEDC85007A662F /* LowestCommonAncestorOfABinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LowestCommonAncestorOfABinarySearchTree.hpp; sourceTree = "<group>"; };
+		9D1E2AE12ABEE2D1007A662F /* LowestCommonAncestorOfABinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LowestCommonAncestorOfABinaryTree.hpp; sourceTree = "<group>"; };
 		9D317A652AB1A70000F629EB /* BinaryTreeLevelOrderTraversalII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversalII.hpp; sourceTree = "<group>"; };
 		9D32D78C2AB87DED00D04446 /* FlattenBinaryTreeToLinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlattenBinaryTreeToLinkedList.hpp; sourceTree = "<group>"; };
 		9D418AA62AB308220014DB1F /* ConvertSortedListToBinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConvertSortedListToBinarySearchTree.hpp; sourceTree = "<group>"; };
@@ -121,6 +122,7 @@
 				9D1E2AD82ABED04E007A662F /* BinaryTreeRightSideView.hpp */,
 				9D1E2ADB2ABED2FC007A662F /* BinarySearchTreeIterator.hpp */,
 				9D1E2ADE2ABEDC85007A662F /* LowestCommonAncestorOfABinarySearchTree.hpp */,
+				9D1E2AE12ABEE2D1007A662F /* LowestCommonAncestorOfABinaryTree.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

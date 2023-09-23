@@ -58,7 +58,7 @@
 #include "Medium/BinaryTreeRightSideView.hpp"
 #include "Medium/BinarySearchTreeIterator.hpp"
 #include "Medium/LowestCommonAncestorOfABinarySearchTree.hpp"
-
+#include "Medium/LowestCommonAncestorOfABinaryTree.hpp"
 
 
 
