@@ -27,6 +27,22 @@ namespace LowestCommonAncestorOfABinarySearchTree {
 
     }
 
+    TreeNode<int>* lowestCommonAncestorV2(
+      TreeNode<int>* root, TreeNode<int>* p, TreeNode<int>* q
+    ) {
+        TreeNode<int> *ancestor = root;
+
+        while(true) {
+            if (p->val < ancestor->val && q->val < ancestor->val)
+                ancestor = ancestor->left;
+            else if (p->val > ancestor->val && q->val > ancestor->val)
+                ancestor = ancestor->right;
+            else break;
+        }
+
+        return ancestor;
+    }
+
     vector<vector<int>> cases = {
         { 6, 2, 8, 0, 4, 7, 9, INT_MIN, INT_MIN, 3, 5 },
         { 6, 2, 8, 0, 4, 7, 9, INT_MIN, INT_MIN, 3, 5},
