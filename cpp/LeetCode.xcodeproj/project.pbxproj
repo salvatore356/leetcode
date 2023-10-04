@@ -38,6 +38,7 @@
 		9D110E2E2A8A265A00535A57 /* MinimumAbsoluteDifferenceInBST.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MinimumAbsoluteDifferenceInBST.hpp; sourceTree = "<group>"; };
 		9D110E312A8A2DC000535A57 /* DiameterOfBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DiameterOfBinaryTree.hpp; sourceTree = "<group>"; };
 		9D110E342A8B8F6900535A57 /* BinaryTreeTilt.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeTilt.hpp; sourceTree = "<group>"; };
+		9D1461112ACD51D200A8B72A /* VerifyPreorderSerializationOfABinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = VerifyPreorderSerializationOfABinaryTree.hpp; sourceTree = "<group>"; };
 		9D1E2AD82ABED04E007A662F /* BinaryTreeRightSideView.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeRightSideView.hpp; sourceTree = "<group>"; };
 		9D1E2ADB2ABED2FC007A662F /* BinarySearchTreeIterator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinarySearchTreeIterator.hpp; sourceTree = "<group>"; };
 		9D1E2ADE2ABEDC85007A662F /* LowestCommonAncestorOfABinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LowestCommonAncestorOfABinarySearchTree.hpp; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 				9D1E2ADB2ABED2FC007A662F /* BinarySearchTreeIterator.hpp */,
 				9D1E2ADE2ABEDC85007A662F /* LowestCommonAncestorOfABinarySearchTree.hpp */,
 				9D1E2AE12ABEE2D1007A662F /* LowestCommonAncestorOfABinaryTree.hpp */,
+				9D1461112ACD51D200A8B72A /* VerifyPreorderSerializationOfABinaryTree.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
