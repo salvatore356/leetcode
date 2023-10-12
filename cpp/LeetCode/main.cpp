@@ -10,6 +10,6 @@
 #include "Problems/BinaryTree/BinaryTree.hpp"
 
 int main(int argc, const char * argv[]) {
-    VerifyPreorderSerializationOfABinaryTree::test();
+    PathSumIII::test();
     return 0;
 }
