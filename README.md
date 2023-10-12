@@ -42,6 +42,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |236| Lowest Common Ancestor of a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/LowestCommonAncestorOfABinaryTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/236-lowest-common-ancestor-of-a-binary-tree/) |
 |257| Binary Tree Paths | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePaths.hpp) | Easy | [here](https://blog.salvatorelabs.com/257-binary-tree-paths/) |
 |331| Verify Preorder Serialization of a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/VerifyPreorderSerializationOfABinaryTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/331-verify-preorder-serialization-of-a-binary-tree/) |
+|337| House Robber III | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/HouseRobberIII.hpp) | Medium | [here](https://blog.salvatorelabs.com/337-house-robber-iii/) |
 |404| Sum of Left Leaves | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SumOfLeftLeaves.hpp) | Easy | [here](https://blog.salvatorelabs.com/404-sum-of-left-leaves/) |
 |437| Path Sum III | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PathSumIII.hpp) | Medium | [here](https://blog.salvatorelabs.com/437-path-sum-iii/) |
 |501| Find Mode in Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/FindModeInBinarySearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/501-find-mode-in-binary-search-tree/) |

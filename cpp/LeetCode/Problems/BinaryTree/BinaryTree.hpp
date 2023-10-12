@@ -61,6 +61,8 @@
 #include "Medium/LowestCommonAncestorOfABinaryTree.hpp"
 #include "Medium/VerifyPreorderSerializationOfABinaryTree.hpp"
 #include "Medium/PathSumIII.hpp"
+#include "Medium/HouseRobberIII.hpp"
+
 
 
 
