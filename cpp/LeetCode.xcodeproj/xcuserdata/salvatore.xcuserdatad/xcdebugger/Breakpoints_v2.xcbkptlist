@@ -14,42 +14,10 @@
             filePath = "LeetCode/Utils/Utils.hpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
             landmarkName = "convertTreeToArray(root, arr, index, mandatory)"
             landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "98E3A4E2-D29F-40C0-9764-A46BC9A3FD87 - e576a861897ec9cc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "void convertTreeToArray&lt;int&gt;(TreeNode&lt;int&gt;*, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, int)"
-                  moduleName = "LeetCode"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/salvatore/Desktop/me/Skills/leetcode/cpp/LeetCode/Utils/Utils.hpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "33"
-                  endingLineNumber = "33"
-                  offsetFromSymbolStart = "16">
-               </Location>
-               <Location
-                  uuid = "98E3A4E2-D29F-40C0-9764-A46BC9A3FD87 - e576a861897ec9cc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "void convertTreeToArray&lt;int&gt;(TreeNode&lt;int&gt;*, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, int)"
-                  moduleName = "LeetCode"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/salvatore/Desktop/me/Skills/leetcode/cpp/LeetCode/Utils/Utils.hpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "33"
-                  endingLineNumber = "33"
-                  offsetFromSymbolStart = "20">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

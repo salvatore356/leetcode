@@ -8,8 +8,9 @@
 #include <iostream>
 
 #include "Problems/BinaryTree/BinaryTree.hpp"
+#include "Problems/Math/Math.hpp"
 
 int main(int argc, const char * argv[]) {
-    HouseRobberIII::test();
+    Sqrt::test();
     return 0;
 }

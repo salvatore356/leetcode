@@ -9,8 +9,23 @@
 #define Utils_hpp
 
 #include <stdio.h>
+#include <vector>
 #include "TreeNode.hpp"
 #include "ListNode.hpp"
+
+#define assert(expr, x_val, y_val) assertWithMessage(expr, #expr, x_val, y_val)
+
+template<typename T, typename U>
+void assertWithMessage(bool condition, const char* expression, T x, U y, const char* message = "Assertion failed") {
+    if (condition) {
+        std::cout << "Assertion passed: " << expression << " -> ("
+        << x << " == " << y << ")" << std::endl;
+    } else {
+        std::cerr << "Assertion failed: " << expression << " -> ("
+                  << x << " != " << y << ")" << std::endl;
+        exit(EXIT_FAILURE);
+    }
+}
 
 template <typename T>
 inline TreeNode<T>* loadNode(vector<T> &arr, int index){
@@ -136,5 +151,7 @@ vector<T> listToVector(ListNode<T>* head) {
     }
     return result;
 }
+
+
 
 #endif /* Utils_hpp */
