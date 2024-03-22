@@ -10,13 +10,29 @@
 
 #include <stdio.h>
 #include <vector>
+#include <iostream>
+
 #include "TreeNode.hpp"
 #include "ListNode.hpp"
 
 #define assert(expr, x_val, y_val) assertWithMessage(expr, #expr, x_val, y_val)
 
+
+template<typename T>
+std::ostream& operator<<(std::ostream& os, const std::vector<T>& vec) {
+    os << "[ ";
+    for (size_t i = 0; i < vec.size(); ++i) {
+        os << vec[i];
+        if (i < vec.size() - 1) {
+            os << ", ";
+        }
+    }
+    os << " ]";
+    return os;
+}
+
 template<typename T, typename U>
-void assertWithMessage(bool condition, const char* expression, T x, U y, const char* message = "Assertion failed") {
+void assertWithMessage(bool condition, const char* expression, T x, U y) {
     if (condition) {
         std::cout << "Assertion passed: " << expression << " -> ("
         << x << " == " << y << ")" << std::endl;

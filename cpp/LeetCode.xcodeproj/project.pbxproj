@@ -41,6 +41,8 @@
 		9D1461112ACD51D200A8B72A /* VerifyPreorderSerializationOfABinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = VerifyPreorderSerializationOfABinaryTree.hpp; sourceTree = "<group>"; };
 		9D15C97E2BAC6213009610AF /* Sqrt(x).hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "Sqrt(x).hpp"; sourceTree = "<group>"; };
 		9D15C9832BAC625F009610AF /* Math.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Math.hpp; sourceTree = "<group>"; };
+		9D15C9882BAD8E3C009610AF /* MergeSortedArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MergeSortedArray.hpp; sourceTree = "<group>"; };
+		9D15C98C2BAD8FC9009610AF /* Arrays.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Arrays.hpp; sourceTree = "<group>"; };
 		9D1E2AD82ABED04E007A662F /* BinaryTreeRightSideView.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeRightSideView.hpp; sourceTree = "<group>"; };
 		9D1E2ADB2ABED2FC007A662F /* BinarySearchTreeIterator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinarySearchTreeIterator.hpp; sourceTree = "<group>"; };
 		9D1E2ADE2ABEDC85007A662F /* LowestCommonAncestorOfABinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LowestCommonAncestorOfABinarySearchTree.hpp; sourceTree = "<group>"; };
@@ -122,6 +124,23 @@
 			path = Easy;
 			sourceTree = "<group>";
 		};
+		9D15C9852BAD8E1E009610AF /* Array */ = {
+			isa = PBXGroup;
+			children = (
+				9D15C9862BAD8E24009610AF /* Easy */,
+				9D15C98C2BAD8FC9009610AF /* Arrays.hpp */,
+			);
+			path = Array;
+			sourceTree = "<group>";
+		};
+		9D15C9862BAD8E24009610AF /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				9D15C9882BAD8E3C009610AF /* MergeSortedArray.hpp */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
 		9DB8C3752AA5ECE7003B7C17 /* Medium */ = {
 			isa = PBXGroup;
 			children = (
@@ -191,6 +210,7 @@
 		9DF754102A7E1CFC00876AA7 /* Problems */ = {
 			isa = PBXGroup;
 			children = (
+				9D15C9852BAD8E1E009610AF /* Array */,
 				9D15C9802BAC622E009610AF /* Math */,
 				9D09378D2A8F7FFF00B9A545 /* BinaryTree */,
 			);

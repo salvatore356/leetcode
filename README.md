@@ -13,7 +13,8 @@ The project is structured based on the difficulty of the problems. Each difficul
 
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
-|69| 69. Sqrt(x) | [C++](./cpp/LeetCode/Problems/Math/Easy/Sqrt(x).hpp) | Easy | [here](https://blog.salvatorelabs.com/69-sqrt-x/) |
+|69| 69. Sqrt(x) | [C++](./cpp/LeetCode/Problems/Array/Easy/MergeSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/69-sqrt-x/) |
+|88| Merge Sorted Array | [C++](./cpp/LeetCode/Problems/Math/Easy/Sqrt(x).hpp) | Easy | [here](https://blog.salvatorelabs.com/merge-sorted-array/) |
 |94| Binary Tree Inorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreeInorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/94-binary-tree-inorder-traversal/) |
 |95| Unique Binary Search Trees II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/UniqueBinarySearchTreesII.hpp) | Easy | [here](https://blog.salvatorelabs.com/95-unique-binary-search-trees-ii/) |
 |96| Unique Binary Search Trees | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/UniqueBinarySearchTrees.hpp) | Easy | [here](https://blog.salvatorelabs.com/96-unique-binary-search-trees/) |

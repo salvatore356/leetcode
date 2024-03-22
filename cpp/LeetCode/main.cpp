@@ -9,8 +9,9 @@
 
 #include "Problems/BinaryTree/BinaryTree.hpp"
 #include "Problems/Math/Math.hpp"
+#include "Problems/Array/Arrays.hpp"
 
 int main(int argc, const char * argv[]) {
-    Sqrt::test();
+    MergeSortedArray::test();
     return 0;
 }
