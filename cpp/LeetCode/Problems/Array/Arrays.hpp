@@ -10,5 +10,6 @@
 
 #include <stdio.h>
 #include "Easy/MergeSortedArray.hpp"
+#include "Easy/RemoveElement.hpp"
 
 #endif /* Arrays_hpp */
