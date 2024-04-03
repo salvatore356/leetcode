@@ -12,5 +12,6 @@
 #include "Easy/MergeSortedArray.hpp"
 #include "Easy/RemoveElement.hpp"
 #include "Easy/RemoveDuplicatesFromSortedArray.hpp"
+#include "Easy/MajorityElement.hpp"
 
 #endif /* Arrays_hpp */

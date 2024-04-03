@@ -15,7 +15,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |---| ----- | -------- | ---------- | ----------- |
 |26| Remove Duplicates from Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveDuplicatesFromSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/26-remove-duplicates-from-sorted-array/) |
 |27| Remove Element | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/27-remove-element/) |
-|69| 69. Sqrt(x) | [C++](./cpp/LeetCode/Problems/Math/Easy/Sqrt(x).hpp) | Easy | [here](https://blog.salvatorelabs.com/69-sqrt-x/) |
+|69| Sqrt(x) | [C++](./cpp/LeetCode/Problems/Math/Easy/Sqrt(x).hpp) | Easy | [here](https://blog.salvatorelabs.com/69-sqrt-x/) |
 |88| Merge Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/MergeSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/merge-sorted-array/) |
 |94| Binary Tree Inorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreeInorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/94-binary-tree-inorder-traversal/) |
 |95| Unique Binary Search Trees II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/UniqueBinarySearchTreesII.hpp) | Easy | [here](https://blog.salvatorelabs.com/95-unique-binary-search-trees-ii/) |
@@ -37,6 +37,7 @@ The project is structured based on the difficulty of the problems. Each difficul
 |129| Sum Root to Leaf Numbers | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/SumRootToLeafNumbers.hpp) | Medium | [here](https://blog.salvatorelabs.com/129-sum-root-to-leaf-numbers/) |
 |144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
 |145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
+|169| Majority Element | [C++](./cpp/LeetCode/Problems/Array/Easy/MajorityElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/169-majority-element/) |
 |173| Binary Search Tree Iterator | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinarySearchTreeIterator.hpp) | Medium | [here](https://blog.salvatorelabs.com/173-binary-search-tree-iterator/) |
 |199| Binary Tree Right Side View | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeRightSideView.hpp) | Medium | [here](https://blog.salvatorelabs.com/199-binary-tree-right-side-view/) |
 |222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |

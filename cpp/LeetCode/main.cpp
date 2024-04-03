@@ -12,6 +12,6 @@
 #include "Problems/Array/Arrays.hpp"
 
 int main(int argc, const char * argv[]) {
-    RemoveDuplicatesFromSortedArray::test();
+    MajorityElement::test();
     return 0;
 }
