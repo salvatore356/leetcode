@@ -8,6 +8,15 @@ Welcome to the LeetCode Problem Solutions project! This repository contains a co
 
 The project is structured based on the difficulty of the problems. Each difficulty level has its own directory containing the corresponding problem solutions.
 
+
+## Getting Started
+
+To explore solutions for specific challenges, simply locate the suitable file corresponding to the problem's name. Inside, you'll discover the code implementation, along with the opportunity to delve deeper into additional insights provided in the accompanying blog post explanation.
+
+Feel free to contribute your own solutions or suggest improvements to existing ones by submitting a pull request!
+
+Happy coding!
+
 ### Problems
 
 
@@ -74,10 +83,3 @@ The project is structured based on the difficulty of the problems. Each difficul
 
 
 
-## Getting Started
-
-To explore solutions for specific challenges, simply locate the suitable file corresponding to the problem's name. Inside, you'll discover the code implementation, along with the opportunity to delve deeper into additional insights provided in the accompanying blog post explanation.
-
-Feel free to contribute your own solutions or suggest improvements to existing ones by submitting a pull request!
-
-Happy coding!
