@@ -13,5 +13,7 @@
 #include "Easy/RemoveElement.hpp"
 #include "Easy/RemoveDuplicatesFromSortedArray.hpp"
 #include "Easy/MajorityElement.hpp"
+#include "Easy/BestTimeToBuyAndSellStock.hpp"
+
 
 #endif /* Arrays_hpp */
