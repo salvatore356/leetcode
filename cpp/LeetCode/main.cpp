@@ -10,8 +10,9 @@
 #include "Problems/BinaryTree/BinaryTree.hpp"
 #include "Problems/Math/Math.hpp"
 #include "Problems/Array/Arrays.hpp"
+#include "Problems/HashTable/HashTable.hpp"
 
 int main(int argc, const char * argv[]) {
-    BestTimeToBuyAndSellStock::test();
+    RomanToInteger::test();
     return 0;
 }
