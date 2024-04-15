@@ -18,7 +18,7 @@ Happy coding!
 
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
-|13| Roman to Integer | [C++](./cpp/LeetCode/Problems/HashTable/Easy/RomanToInteger.hpp) | Easy | [here](https://blog.salvatorelabs.com/13-roman-to-integer |
+|13| Roman to Integer | [C++](./cpp/LeetCode/Problems/HashTable/Easy/RomanToInteger.hpp) | Easy | [here](https://blog.salvatorelabs.com/13-roman-to-integer) |
 |26| Remove Duplicates from Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveDuplicatesFromSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/26-remove-duplicates-from-sorted-array/) |
 |27| Remove Element | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/27-remove-element/) |
 |69| Sqrt(x) | [C++](./cpp/LeetCode/Problems/Math/Easy/Sqrt(x).hpp) | Easy | [here](https://blog.salvatorelabs.com/69-sqrt-x/) |
