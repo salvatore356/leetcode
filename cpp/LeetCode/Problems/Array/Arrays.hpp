@@ -15,5 +15,5 @@
 #include "Easy/MajorityElement.hpp"
 #include "Easy/BestTimeToBuyAndSellStock.hpp"
 
-
+#include "Easy/LengthOfLastWord.hpp"
 #endif /* Arrays_hpp */

@@ -21,6 +21,7 @@ Happy coding!
 |13| Roman to Integer | [C++](./cpp/LeetCode/Problems/HashTable/Easy/RomanToInteger.hpp) | Easy | [here](https://blog.salvatorelabs.com/13-roman-to-integer) |
 |26| Remove Duplicates from Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveDuplicatesFromSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/26-remove-duplicates-from-sorted-array/) |
 |27| Remove Element | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/27-remove-element/) |
+|58| Length of Last Word | [C++](./cpp/LeetCode/Problems/Array/Easy/LengthOfLastWord.hpp) | Easy | [here](https://blog.salvatorelabs.com/58-length-of-last-word/) |
 |69| Sqrt(x) | [C++](./cpp/LeetCode/Problems/Math/Easy/Sqrt(x).hpp) | Easy | [here](https://blog.salvatorelabs.com/69-sqrt-x/) |
 |88| Merge Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/MergeSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/merge-sorted-array/) |
 |94| Binary Tree Inorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreeInorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/94-binary-tree-inorder-traversal/) |
