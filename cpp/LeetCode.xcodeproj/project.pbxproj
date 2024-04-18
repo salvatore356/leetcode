@@ -46,6 +46,7 @@
 		9D1DBB222BCD4D9B00ACA5D7 /* RomanToInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RomanToInteger.hpp; sourceTree = "<group>"; };
 		9D1DBB252BCD4DC600ACA5D7 /* HashTable.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HashTable.hpp; sourceTree = "<group>"; };
 		9D1DBB2B2BCFC7B700ACA5D7 /* LengthOfLastWord.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LengthOfLastWord.hpp; sourceTree = "<group>"; };
+		9D1DBB312BD1185500ACA5D7 /* LongestCommonPrefix.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LongestCommonPrefix.hpp; sourceTree = "<group>"; };
 		9D1E2AD82ABED04E007A662F /* BinaryTreeRightSideView.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeRightSideView.hpp; sourceTree = "<group>"; };
 		9D1E2ADB2ABED2FC007A662F /* BinarySearchTreeIterator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinarySearchTreeIterator.hpp; sourceTree = "<group>"; };
 		9D1E2ADE2ABEDC85007A662F /* LowestCommonAncestorOfABinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LowestCommonAncestorOfABinarySearchTree.hpp; sourceTree = "<group>"; };
@@ -149,6 +150,7 @@
 				9D975B0C2BBD2D2500B38A1E /* MajorityElement.hpp */,
 				9D365D7E2BC3EFC300B0CD22 /* BestTimeToBuyAndSellStock.hpp */,
 				9D1DBB2B2BCFC7B700ACA5D7 /* LengthOfLastWord.hpp */,
+				9D1DBB312BD1185500ACA5D7 /* LongestCommonPrefix.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

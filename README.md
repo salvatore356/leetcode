@@ -19,6 +19,7 @@ Happy coding!
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
 |13| Roman to Integer | [C++](./cpp/LeetCode/Problems/HashTable/Easy/RomanToInteger.hpp) | Easy | [here](https://blog.salvatorelabs.com/13-roman-to-integer) |
+|14| Longest Common Prefix | [C++](./cpp/LeetCode/Problems/Array/Easy/LongestCommonPrefix.hpp) | Easy | [here](https://blog.salvatorelabs.com/14-longest-common-prefix) |
 |26| Remove Duplicates from Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveDuplicatesFromSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/26-remove-duplicates-from-sorted-array/) |
 |27| Remove Element | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/27-remove-element/) |
 |58| Length of Last Word | [C++](./cpp/LeetCode/Problems/Array/Easy/LengthOfLastWord.hpp) | Easy | [here](https://blog.salvatorelabs.com/58-length-of-last-word/) |

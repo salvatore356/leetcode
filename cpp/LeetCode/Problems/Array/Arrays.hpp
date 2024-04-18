@@ -16,4 +16,6 @@
 #include "Easy/BestTimeToBuyAndSellStock.hpp"
 
 #include "Easy/LengthOfLastWord.hpp"
+#include "Easy/LongestCommonPrefix.hpp"
+
 #endif /* Arrays_hpp */

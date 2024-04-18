@@ -13,6 +13,6 @@
 #include "Problems/HashTable/HashTable.hpp"
 
 int main(int argc, const char * argv[]) {
-    LengthOfLastWord::test();
+    LongestCommonPrefix::test();
     return 0;
 }
