@@ -17,5 +17,7 @@
 
 #include "Easy/LengthOfLastWord.hpp"
 #include "Easy/LongestCommonPrefix.hpp"
+#include "Easy/FindTheIndexOfTheFirstOccurrenceInAString.hpp"
+
 
 #endif /* Arrays_hpp */
