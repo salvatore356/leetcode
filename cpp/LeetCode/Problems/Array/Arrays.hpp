@@ -18,6 +18,8 @@
 #include "Easy/LengthOfLastWord.hpp"
 #include "Easy/LongestCommonPrefix.hpp"
 #include "Easy/FindTheIndexOfTheFirstOccurrenceInAString.hpp"
+#include "Easy/ValidPalindrome.hpp"
+#include "Easy/RansomNote.hpp"
 
 
 #endif /* Arrays_hpp */

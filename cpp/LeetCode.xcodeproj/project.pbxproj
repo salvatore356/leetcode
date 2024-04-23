@@ -48,6 +48,8 @@
 		9D1DBB2B2BCFC7B700ACA5D7 /* LengthOfLastWord.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LengthOfLastWord.hpp; sourceTree = "<group>"; };
 		9D1DBB312BD1185500ACA5D7 /* LongestCommonPrefix.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LongestCommonPrefix.hpp; sourceTree = "<group>"; };
 		9D1DBB452BD25C6D00ACA5D7 /* FindTheIndexOfTheFirstOccurrenceInAString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FindTheIndexOfTheFirstOccurrenceInAString.hpp; sourceTree = "<group>"; };
+		9D1DBB512BD673B900ACA5D7 /* ValidPalindrome.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ValidPalindrome.hpp; sourceTree = "<group>"; };
+		9D1DBBA32BD7BFCC00ACA5D7 /* RansomNote.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RansomNote.hpp; sourceTree = "<group>"; };
 		9D1E2AD82ABED04E007A662F /* BinaryTreeRightSideView.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeRightSideView.hpp; sourceTree = "<group>"; };
 		9D1E2ADB2ABED2FC007A662F /* BinarySearchTreeIterator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinarySearchTreeIterator.hpp; sourceTree = "<group>"; };
 		9D1E2ADE2ABEDC85007A662F /* LowestCommonAncestorOfABinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LowestCommonAncestorOfABinarySearchTree.hpp; sourceTree = "<group>"; };
@@ -153,6 +155,8 @@
 				9D1DBB2B2BCFC7B700ACA5D7 /* LengthOfLastWord.hpp */,
 				9D1DBB312BD1185500ACA5D7 /* LongestCommonPrefix.hpp */,
 				9D1DBB452BD25C6D00ACA5D7 /* FindTheIndexOfTheFirstOccurrenceInAString.hpp */,
+				9D1DBB512BD673B900ACA5D7 /* ValidPalindrome.hpp */,
+				9D1DBBA32BD7BFCC00ACA5D7 /* RansomNote.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
