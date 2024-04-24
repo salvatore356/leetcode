@@ -20,6 +20,7 @@
 #include "Easy/FindTheIndexOfTheFirstOccurrenceInAString.hpp"
 #include "Easy/ValidPalindrome.hpp"
 #include "Easy/RansomNote.hpp"
+#include "Easy/IsomorphicStrings.hpp"
 
 
 #endif /* Arrays_hpp */

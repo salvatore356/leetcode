@@ -64,6 +64,7 @@
 		9D418AAC2AB44D450014DB1F /* PathSumII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PathSumII.hpp; sourceTree = "<group>"; };
 		9D618EFA2AAAFBF1002FF9B0 /* BinaryTreeLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D618EFD2AAB03ED002FF9B0 /* BinaryTreeZigzagLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeZigzagLevelOrderTraversal.hpp; sourceTree = "<group>"; };
+		9D626C152BD96F450049991E /* IsomorphicStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IsomorphicStrings.hpp; sourceTree = "<group>"; };
 		9D6BF1252A950E940078805D /* AverageOfLevelsInBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AverageOfLevelsInBinaryTree.hpp; sourceTree = "<group>"; };
 		9D6BF1282A95F2A40078805D /* TwoSumIV-InputIsA-BST.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "TwoSumIV-InputIsA-BST.hpp"; sourceTree = "<group>"; };
 		9D6BF12B2A9766D80078805D /* SecondMinimumNodeInABinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SecondMinimumNodeInABinaryTree.hpp; sourceTree = "<group>"; };
@@ -157,6 +158,7 @@
 				9D1DBB452BD25C6D00ACA5D7 /* FindTheIndexOfTheFirstOccurrenceInAString.hpp */,
 				9D1DBB512BD673B900ACA5D7 /* ValidPalindrome.hpp */,
 				9D1DBBA32BD7BFCC00ACA5D7 /* RansomNote.hpp */,
+				9D626C152BD96F450049991E /* IsomorphicStrings.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
