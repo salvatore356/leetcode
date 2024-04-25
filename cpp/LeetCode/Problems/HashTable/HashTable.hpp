@@ -11,5 +11,6 @@
 #include <stdio.h>
 
 #include "Easy/RomanToInteger.hpp"
+#include "Easy/WordPattern.hpp"
 
 #endif /* HashTable_hpp */

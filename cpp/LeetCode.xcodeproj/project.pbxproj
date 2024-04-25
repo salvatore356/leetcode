@@ -54,6 +54,7 @@
 		9D1E2ADB2ABED2FC007A662F /* BinarySearchTreeIterator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinarySearchTreeIterator.hpp; sourceTree = "<group>"; };
 		9D1E2ADE2ABEDC85007A662F /* LowestCommonAncestorOfABinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LowestCommonAncestorOfABinarySearchTree.hpp; sourceTree = "<group>"; };
 		9D1E2AE12ABEE2D1007A662F /* LowestCommonAncestorOfABinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LowestCommonAncestorOfABinaryTree.hpp; sourceTree = "<group>"; };
+		9D1EEEAC2BDAE14500098259 /* WordPattern.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = WordPattern.hpp; sourceTree = "<group>"; };
 		9D215F482AD7F77700FBED32 /* PathSumIII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PathSumIII.hpp; sourceTree = "<group>"; };
 		9D215F4B2AD800F100FBED32 /* HouseRobberIII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HouseRobberIII.hpp; sourceTree = "<group>"; };
 		9D317A652AB1A70000F629EB /* BinaryTreeLevelOrderTraversalII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversalII.hpp; sourceTree = "<group>"; };
@@ -176,6 +177,7 @@
 			isa = PBXGroup;
 			children = (
 				9D1DBB222BCD4D9B00ACA5D7 /* RomanToInteger.hpp */,
+				9D1EEEAC2BDAE14500098259 /* WordPattern.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

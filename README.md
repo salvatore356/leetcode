@@ -57,6 +57,7 @@ Happy coding!
 |235| Lowest Common Ancestor of a Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/LowestCommonAncestorOfABinarySearchTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/235-lowest-common-ancestor-of-a-binary-search-tree/) |
 |236| Lowest Common Ancestor of a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/LowestCommonAncestorOfABinaryTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/236-lowest-common-ancestor-of-a-binary-tree/) |
 |257| Binary Tree Paths | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePaths.hpp) | Easy | [here](https://blog.salvatorelabs.com/257-binary-tree-paths/) |
+|290| Word Pattern | [C++](./cpp/LeetCode/Problems/HashTable/Easy/WordPattern.hpp) | Easy | - |
 |331| Verify Preorder Serialization of a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/VerifyPreorderSerializationOfABinaryTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/331-verify-preorder-serialization-of-a-binary-tree/) |
 |337| House Robber III | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/HouseRobberIII.hpp) | Medium | [here](https://blog.salvatorelabs.com/337-house-robber-iii/) |
 |383| Ransom Note | [C++](./cpp/LeetCode/Problems/Array/Easy/RansomNote.hpp) | Easy | - |
