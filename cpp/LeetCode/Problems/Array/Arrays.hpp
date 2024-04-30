@@ -21,6 +21,7 @@
 #include "Easy/ValidPalindrome.hpp"
 #include "Easy/RansomNote.hpp"
 #include "Easy/IsomorphicStrings.hpp"
+#include "Easy/IsSubsequence.hpp"
 
 
 #endif /* Arrays_hpp */

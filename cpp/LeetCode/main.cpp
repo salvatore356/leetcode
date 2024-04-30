@@ -13,6 +13,6 @@
 #include "Problems/HashTable/HashTable.hpp"
 
 int main(int argc, const char * argv[]) {
-    WordPattern::test();
+    IsSubsequence::test();
     return 0;
 }
