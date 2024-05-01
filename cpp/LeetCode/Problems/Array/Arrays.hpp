@@ -22,6 +22,7 @@
 #include "Easy/RansomNote.hpp"
 #include "Easy/IsomorphicStrings.hpp"
 #include "Easy/IsSubsequence.hpp"
+#include "Easy/ValidAnagram.hpp"
 
 
 #endif /* Arrays_hpp */
