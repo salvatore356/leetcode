@@ -13,6 +13,6 @@
 #include "Problems/HashTable/HashTable.hpp"
 
 int main(int argc, const char * argv[]) {
-    TwoSum::test();
+    HappyNumber::test();
     return 0;
 }

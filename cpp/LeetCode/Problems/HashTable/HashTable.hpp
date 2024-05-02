@@ -12,5 +12,6 @@
 
 #include "Easy/RomanToInteger.hpp"
 #include "Easy/WordPattern.hpp"
+#include "Easy/HappyNumber.hpp"
 
 #endif /* HashTable_hpp */
