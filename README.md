@@ -18,6 +18,7 @@ Happy coding!
 
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
+|1| Two Sum | [C++](./cpp/LeetCode/Problems/Array/Easy/TwoSum.hpp) | Easy | - |
 |13| Roman to Integer | [C++](./cpp/LeetCode/Problems/HashTable/Easy/RomanToInteger.hpp) | Easy | [here](https://blog.salvatorelabs.com/13-roman-to-integer) |
 |14| Longest Common Prefix | [C++](./cpp/LeetCode/Problems/Array/Easy/LongestCommonPrefix.hpp) | Easy | [here](https://blog.salvatorelabs.com/14-longest-common-prefix) |
 |26| Remove Duplicates from Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveDuplicatesFromSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/26-remove-duplicates-from-sorted-array/) |

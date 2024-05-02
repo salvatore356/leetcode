@@ -14,6 +14,7 @@
 #include "Easy/RemoveDuplicatesFromSortedArray.hpp"
 #include "Easy/MajorityElement.hpp"
 #include "Easy/BestTimeToBuyAndSellStock.hpp"
+#include "Easy/TwoSum.hpp"
 
 #include "Easy/LengthOfLastWord.hpp"
 #include "Easy/LongestCommonPrefix.hpp"
@@ -23,6 +24,5 @@
 #include "Easy/IsomorphicStrings.hpp"
 #include "Easy/IsSubsequence.hpp"
 #include "Easy/ValidAnagram.hpp"
-
 
 #endif /* Arrays_hpp */
