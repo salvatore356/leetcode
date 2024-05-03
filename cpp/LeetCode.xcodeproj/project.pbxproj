@@ -75,6 +75,7 @@
 		9D965FAC2BE26EA100C2BB46 /* ValidAnagram.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ValidAnagram.hpp; sourceTree = "<group>"; };
 		9D965FCA2BE3C0EC00C2BB46 /* TwoSum.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TwoSum.hpp; sourceTree = "<group>"; };
 		9D965FCD2BE3CBD700C2BB46 /* HappyNumber.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HappyNumber.hpp; sourceTree = "<group>"; };
+		9D965FD92BE4EA9E00C2BB46 /* ContainsDuplicateII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ContainsDuplicateII.hpp; sourceTree = "<group>"; };
 		9D975ACA2BBC047500B38A1E /* RemoveDuplicatesFromSortedArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RemoveDuplicatesFromSortedArray.hpp; sourceTree = "<group>"; };
 		9D975B0C2BBD2D2500B38A1E /* MajorityElement.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MajorityElement.hpp; sourceTree = "<group>"; };
 		9DAC365E2BB594F00070D4DE /* RemoveElement.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RemoveElement.hpp; sourceTree = "<group>"; };
@@ -186,6 +187,7 @@
 				9D1DBB222BCD4D9B00ACA5D7 /* RomanToInteger.hpp */,
 				9D1EEEAC2BDAE14500098259 /* WordPattern.hpp */,
 				9D965FCD2BE3CBD700C2BB46 /* HappyNumber.hpp */,
+				9D965FD92BE4EA9E00C2BB46 /* ContainsDuplicateII.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

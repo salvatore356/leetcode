@@ -53,6 +53,7 @@ Happy coding!
 |199| Binary Tree Right Side View | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeRightSideView.hpp) | Medium | [here](https://blog.salvatorelabs.com/199-binary-tree-right-side-view/) |
 |202| Happy Number | [C++](./cpp/LeetCode/Problems/HashTable/Easy/HappyNumber.hpp) | Easy | - |
 |205| Isomorphic Strings | [C++](./cpp/LeetCode/Problems/Array/Easy/IsomorphicStrings.hpp) | Easy | - |
+|219| Contains Duplicate II | [C++](./cpp/LeetCode/Problems/ContainsDuplicateII/Easy/WordPattern.hpp) | Easy | - |
 |222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |
 |226| Invert Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/InvertBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/226-invert-binary-tree/) |
 |230| Kth Smallest Element in a BST | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/KthSmallestElementInABST.hpp) | Medium | [here](https://blog.salvatorelabs.com/230-kth-smallest-element-in-a-bst/) |
