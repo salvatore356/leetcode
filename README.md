@@ -56,6 +56,7 @@ Happy coding!
 |219| Contains Duplicate II | [C++](./cpp/LeetCode/Problems/HashTable/Easy/ContainsDuplicateII.hpp) | Easy | - |
 |222| Count Complete Tree Nodes | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/CountCompleteTreeNodes.hpp) | Easy | [here](https://blog.salvatorelabs.com/222-count-complete-tree-nodes/) |
 |226| Invert Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/InvertBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/226-invert-binary-tree/) |
+|228| Summary Ranges | [C++](./cpp/LeetCode/Problems/Array/Easy/SummaryRanges.hpp) | Easy | - |
 |230| Kth Smallest Element in a BST | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/KthSmallestElementInABST.hpp) | Medium | [here](https://blog.salvatorelabs.com/230-kth-smallest-element-in-a-bst/) |
 |235| Lowest Common Ancestor of a Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/LowestCommonAncestorOfABinarySearchTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/235-lowest-common-ancestor-of-a-binary-search-tree/) |
 |236| Lowest Common Ancestor of a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/LowestCommonAncestorOfABinaryTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/236-lowest-common-ancestor-of-a-binary-tree/) |

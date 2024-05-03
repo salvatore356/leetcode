@@ -13,6 +13,6 @@
 #include "Problems/HashTable/HashTable.hpp"
 
 int main(int argc, const char * argv[]) {
-    ContainsDuplicateII::test();
+    SummaryRanges::test();
     return 0;
 }

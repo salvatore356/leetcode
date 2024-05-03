@@ -24,5 +24,6 @@
 #include "Easy/IsomorphicStrings.hpp"
 #include "Easy/IsSubsequence.hpp"
 #include "Easy/ValidAnagram.hpp"
+#include "Easy/SummaryRanges.hpp"
 
 #endif /* Arrays_hpp */
