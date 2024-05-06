@@ -25,5 +25,7 @@
 #include "Easy/IsSubsequence.hpp"
 #include "Easy/ValidAnagram.hpp"
 #include "Easy/SummaryRanges.hpp"
+#include "Easy/ValidParentheses.hpp"
+
 
 #endif /* Arrays_hpp */
