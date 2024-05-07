@@ -11,8 +11,9 @@
 #include "Problems/Math/Math.hpp"
 #include "Problems/Array/Arrays.hpp"
 #include "Problems/HashTable/HashTable.hpp"
+#include "Problems/LinkedList/LinkedList.hpp"
 
 int main(int argc, const char * argv[]) {
-    ValidParentheses::test();
+    LinkedListCycle::test();
     return 0;
 }

@@ -60,7 +60,6 @@ namespace InverTree {
             
             bool passed = compareArrays(arr, expected[i]);
             
-            
             printf("Case %d passed %d\n", (i + 1), passed );
             printf("input:\t\t");
             printArray(cases[i]);
