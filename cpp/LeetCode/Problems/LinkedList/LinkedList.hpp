@@ -10,5 +10,6 @@
 
 #include <stdio.h>
 #include "Easy/LinkedListCycle.hpp"
+#include "Easy/MergeTwoSortedLists.hpp"
 
 #endif /* LinkedList_hpp */

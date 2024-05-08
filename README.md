@@ -22,6 +22,7 @@ Happy coding!
 |13| Roman to Integer | [C++](./cpp/LeetCode/Problems/HashTable/Easy/RomanToInteger.hpp) | Easy | [here](https://blog.salvatorelabs.com/13-roman-to-integer) |
 |14| Longest Common Prefix | [C++](./cpp/LeetCode/Problems/Array/Easy/LongestCommonPrefix.hpp) | Easy | [here](https://blog.salvatorelabs.com/14-longest-common-prefix) |
 |20| Valid Parentheses | [C++](./cpp/LeetCode/Problems/Array/Easy/ValidParentheses.hpp) | Easy | - |
+|21| Merge Two Sorted Lists | [C++](./cpp/LeetCode/Problems/Array/Easy/MergeTwoSortedLists.hpp) | Easy | - |
 |26| Remove Duplicates from Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveDuplicatesFromSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/26-remove-duplicates-from-sorted-array/) |
 |27| Remove Element | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/27-remove-element/) |
 |28| Find the Index of the First Occurrence in a String | [C++](./cpp/LeetCode/Problems/Array/Easy/FindTheIndexOfTheFirstOccurrenceInAString.hpp) | Easy | [here](https://blog.salvatorelabs.com/28-find-the-index-of-the-first-occurrence-in-a-string/) |
