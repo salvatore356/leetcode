@@ -38,6 +38,7 @@
 #include "Easy/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.hpp"
 #include "Easy/RootEqualsSumOfChildren.hpp"
 #include "Easy/EvaluateBooleanBinaryTree.hpp"
+#include "Easy/MaximumDepthOfBinaryTree.hpp"
 
 #include "Medium/KthSmallestElementInABST.hpp"
 #include "Medium/UniqueBinarySearchTreesII.hpp"

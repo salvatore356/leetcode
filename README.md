@@ -38,6 +38,7 @@ Happy coding!
 |101| Symmetric Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SymmetricTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/101-symmetric-tree/) |
 |102| Binary Tree Level Order Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeLevelOrderTraversal.hpp) | Medium | [here](https://blog.salvatorelabs.com/102-binary-tree-level-order-traversal/) |
 |103| Binary Tree Zigzag Level Order Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeZigzagLevelOrderTraversal.hpp) | Medium | [here](https://blog.salvatorelabs.com/103-binary-tree-zigzag-level-order-traversal/) |
+|104| Maximum Depth Of Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/MaximumDepthOfBinaryTree.hpp) | Easy | -) |
 |105| Construct Binary Tree from Preorder and Inorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/ConstructBinaryTreeFromPreorderAndInorderTraversal.hpp) | Medium | [here](https://blog.salvatorelabs.com/105-construct-binary-tree-from-preorder-and-inorder-traversal/) |
 |106| Construct Binary Tree from Inorder and Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/ConstructBinaryTreeFromInorderAndPostorderTraversal.hpp) | Medium | [here](https://blog.salvatorelabs.com/106-construct-binary-tree-from-inorder-and-postorder-traversal/) |
 |107| Binary Tree Level Order Traversal II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeLevelOrderTraversalII.hpp) | Medium | [here](https://blog.salvatorelabs.com/107-binary-tree-level-order-traversal-ii/) |

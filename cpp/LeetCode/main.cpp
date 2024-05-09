@@ -14,6 +14,6 @@
 #include "Problems/LinkedList/LinkedList.hpp"
 
 int main(int argc, const char * argv[]) {
-    MergeTwoSortedLists::test();
+    MaximumDepthOfBinaryTree::test();
     return 0;
 }

@@ -87,6 +87,7 @@
 		9DB8C38B2AA72B68003B7C17 /* UniqueBinarySearchTreesII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = UniqueBinarySearchTreesII.hpp; sourceTree = "<group>"; };
 		9DB8C39F2AA868D5003B7C17 /* UniqueBinarySearchTrees.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = UniqueBinarySearchTrees.hpp; sourceTree = "<group>"; };
 		9DBDAA1D2BEB81CC00CC6232 /* MergeTwoSortedLists.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MergeTwoSortedLists.hpp; sourceTree = "<group>"; };
+		9DBDAA2C2BECF4E800CC6232 /* MaximumDepthOfBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MaximumDepthOfBinaryTree.hpp; sourceTree = "<group>"; };
 		9DC3D3A22AB9B7D200E58540 /* PopulatingNextRightPointersInEachNode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PopulatingNextRightPointersInEachNode.hpp; sourceTree = "<group>"; };
 		9DC3D3A52AB9C0E000E58540 /* PopulatingNextRightPointersInEachNodeII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PopulatingNextRightPointersInEachNodeII.hpp; sourceTree = "<group>"; };
 		9DC77AA12A9CB16900D4A5A9 /* SearchInA-BinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "SearchInA-BinarySearchTree.hpp"; sourceTree = "<group>"; };
@@ -326,6 +327,7 @@
 				9DC77AC72AA1E81700D4A5A9 /* FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.hpp */,
 				9DC77ACA2AA2025C00D4A5A9 /* RootEqualsSumOfChildren.hpp */,
 				9DC77ACD2AA20E0300D4A5A9 /* EvaluateBooleanBinaryTree.hpp */,
+				9DBDAA2C2BECF4E800CC6232 /* MaximumDepthOfBinaryTree.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
