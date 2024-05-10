@@ -14,6 +14,6 @@
 #include "Problems/LinkedList/LinkedList.hpp"
 
 int main(int argc, const char * argv[]) {
-    MaximumDepthOfBinaryTree::test();
+    SameTree::test();
     return 0;
 }

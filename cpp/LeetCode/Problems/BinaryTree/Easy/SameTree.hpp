@@ -23,8 +23,17 @@ namespace SameTree {
         return inorder(p->left, q->left) && inorder(p->right, q->right);
     }
 
-    bool isSameTree(TreeNode<int>* p, TreeNode<int>* q) {
+    bool isSameTreeSlower(TreeNode<int>* p, TreeNode<int>* q) {
         return inorder(p, q);
+    }
+
+    bool isSameTree(TreeNode<int>* p, TreeNode<int>* q){
+        if(!p && !q) return true;
+        if (!p || !q) return false;
+
+        return q->val == p->val &&
+            isSameTree(p->right, q->right) &&
+            isSameTree(p->left, q->left);
     }
 
     vector<vector<int>> treesP = {
@@ -50,21 +59,9 @@ namespace SameTree {
         for(int i = 0; i < treesP.size(); ++i) {
             TreeNode<int> *p =  loadTree(treesP[i]);
             TreeNode<int> *q =  loadTree(treesQ[i]);
-            bool solution = isSameTree(p, q);
+            bool result = isSameTree(p, q);
             
-            bool passed = solution == expected[i];
-            
-            
-            printf("Case %d passed %d\n", (i + 1), passed );
-            printf("input:\n");
-            printf("\tp:\t");
-            printArray(treesP[i]);
-            printf("\tq:\t");
-            printArray(treesQ[i]);
-            printf("expected:\t%d\n", (int)expected[i]);
-            
-            printf("solution:\t%d\n", solution);
-            printf("\n");
+            assert(result == expected[i], result, expected[i]);
         }
     }
 }
