@@ -26,6 +26,6 @@
 #include "Easy/ValidAnagram.hpp"
 #include "Easy/SummaryRanges.hpp"
 #include "Easy/ValidParentheses.hpp"
-
+#include "Easy/ClimbingStairs.hpp"
 
 #endif /* Arrays_hpp */
