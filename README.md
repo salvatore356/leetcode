@@ -27,6 +27,7 @@ Happy coding!
 |27| Remove Element | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/27-remove-element/) |
 |28| Find the Index of the First Occurrence in a String | [C++](./cpp/LeetCode/Problems/Array/Easy/FindTheIndexOfTheFirstOccurrenceInAString.hpp) | Easy | [here](https://blog.salvatorelabs.com/28-find-the-index-of-the-first-occurrence-in-a-string/) |
 |58| Length of Last Word | [C++](./cpp/LeetCode/Problems/Array/Easy/LengthOfLastWord.hpp) | Easy | [here](https://blog.salvatorelabs.com/58-length-of-last-word/) |
+|66| Plus One | [C++](./cpp/LeetCode/Problems/Array/Easy/PlusOne.hpp) | Easy | - |
 |69| Sqrt(x) | [C++](./cpp/LeetCode/Problems/Math/Easy/Sqrt(x).hpp) | Easy | [here](https://blog.salvatorelabs.com/69-sqrt-x/) |
 |70| Climbing Stairs | [C++](./cpp/LeetCode/Problems/Array/Easy/ClimbingStairs.hpp) | Easy | - |
 |88| Merge Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/MergeSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/merge-sorted-array/) |

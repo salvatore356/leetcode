@@ -70,6 +70,7 @@
 		9D6BF1282A95F2A40078805D /* TwoSumIV-InputIsA-BST.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "TwoSumIV-InputIsA-BST.hpp"; sourceTree = "<group>"; };
 		9D6BF12B2A9766D80078805D /* SecondMinimumNodeInABinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SecondMinimumNodeInABinaryTree.hpp; sourceTree = "<group>"; };
 		9D937F172BF2019600018144 /* ClimbingStairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ClimbingStairs.hpp; sourceTree = "<group>"; };
+		9D937F352BF343AC00018144 /* PlusOne.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PlusOne.hpp; sourceTree = "<group>"; };
 		9D93CA962AA9B6DB00991445 /* ValidateBinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ValidateBinarySearchTree.hpp; sourceTree = "<group>"; };
 		9D93CA992AA9C8FC00991445 /* RecoverBinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RecoverBinarySearchTree.hpp; sourceTree = "<group>"; };
 		9D965F912BE1004700C2BB46 /* IsSubsequence.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IsSubsequence.hpp; sourceTree = "<group>"; };
@@ -178,6 +179,7 @@
 				9D965FDC2BE4F0EF00C2BB46 /* SummaryRanges.hpp */,
 				9D965FE82BE8ED5900C2BB46 /* ValidParentheses.hpp */,
 				9D937F172BF2019600018144 /* ClimbingStairs.hpp */,
+				9D937F352BF343AC00018144 /* PlusOne.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";

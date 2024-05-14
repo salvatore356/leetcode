@@ -27,5 +27,6 @@
 #include "Easy/SummaryRanges.hpp"
 #include "Easy/ValidParentheses.hpp"
 #include "Easy/ClimbingStairs.hpp"
+#include "Easy/PlusOne.hpp"
 
 #endif /* Arrays_hpp */
