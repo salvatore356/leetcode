@@ -14,6 +14,6 @@
 #include "Problems/LinkedList/LinkedList.hpp"
 
 int main(int argc, const char * argv[]) {
-    PlusOne::test();
+    PalindromeNumber::test();
     return 0;
 }
