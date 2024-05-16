@@ -52,6 +52,7 @@ Happy coding!
 |117| Populating Next Right Pointers in Each Node II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PopulatingNextRightPointersInEachNodeII.hpp) | Medium | [here](https://blog.salvatorelabs.com/117-populating-next-right-pointers-in-each-node-ii/) |
 |121| Best Time to Buy and Sell Stock | [C++](./cpp/LeetCode/Problems/Array/Easy/BestTimeToBuyAndSellStock.hpp) | Easy | [here](https://blog.salvatorelabs.com/121-best-time-to-buy-and-sell-stock/) |
 |129| Sum Root to Leaf Numbers | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/SumRootToLeafNumbers.hpp) | Medium | [here](https://blog.salvatorelabs.com/129-sum-root-to-leaf-numbers/) |
+|136| Single Number | [C++](./cpp/LeetCode/Problems/Array/Easy/SingleNumber.hpp) | Easy | - |
 |141| Linked List Cycle | [C++](./cpp/LeetCode/Problems/LinkedList/Easy/LinkedListCycle.hpp) | Easy | - |
 |144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
 |145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |

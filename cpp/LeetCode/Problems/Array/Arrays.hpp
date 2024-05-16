@@ -28,5 +28,6 @@
 #include "Easy/ValidParentheses.hpp"
 #include "Easy/ClimbingStairs.hpp"
 #include "Easy/PlusOne.hpp"
+#include "Easy/SingleNumber.hpp"
 
 #endif /* Arrays_hpp */
