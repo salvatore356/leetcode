@@ -14,6 +14,6 @@
 #include "Problems/LinkedList/LinkedList.hpp"
 
 int main(int argc, const char * argv[]) {
-    SingleNumber::test();
+    NumberOf1Bits::test();
     return 0;
 }

@@ -11,5 +11,6 @@
 #include <stdio.h>
 #include "Easy/Sqrt(x).hpp"
 #include "Easy/PalindromeNumber.hpp"
+#include "Easy/NumberOf1Bits.hpp"
 
 #endif /* Math_hpp */

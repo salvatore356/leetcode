@@ -58,6 +58,7 @@ Happy coding!
 |145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
 |169| Majority Element | [C++](./cpp/LeetCode/Problems/Array/Easy/MajorityElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/169-majority-element/) |
 |173| Binary Search Tree Iterator | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinarySearchTreeIterator.hpp) | Medium | [here](https://blog.salvatorelabs.com/173-binary-search-tree-iterator/) |
+|191| NumberOf1Bits | [C++](./cpp/LeetCode/Problems/Math/Easy/NumberOf1Bits.hpp) | Easy | - |
 |199| Binary Tree Right Side View | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinaryTreeRightSideView.hpp) | Medium | [here](https://blog.salvatorelabs.com/199-binary-tree-right-side-view/) |
 |202| Happy Number | [C++](./cpp/LeetCode/Problems/HashTable/Easy/HappyNumber.hpp) | Easy | - |
 |205| Isomorphic Strings | [C++](./cpp/LeetCode/Problems/Array/Easy/IsomorphicStrings.hpp) | Easy | - |

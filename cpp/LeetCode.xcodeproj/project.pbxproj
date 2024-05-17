@@ -71,6 +71,7 @@
 		9D6BF12B2A9766D80078805D /* SecondMinimumNodeInABinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SecondMinimumNodeInABinaryTree.hpp; sourceTree = "<group>"; };
 		9D7FCC862BF4A5A6001EB1BF /* PalindromeNumber.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PalindromeNumber.hpp; sourceTree = "<group>"; };
 		9D7FCCA12BF61074001EB1BF /* SingleNumber.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SingleNumber.hpp; sourceTree = "<group>"; };
+		9D7FCCAD2BF743F8001EB1BF /* NumberOf1Bits.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = NumberOf1Bits.hpp; sourceTree = "<group>"; };
 		9D937F172BF2019600018144 /* ClimbingStairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ClimbingStairs.hpp; sourceTree = "<group>"; };
 		9D937F352BF343AC00018144 /* PlusOne.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PlusOne.hpp; sourceTree = "<group>"; };
 		9D93CA962AA9B6DB00991445 /* ValidateBinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ValidateBinarySearchTree.hpp; sourceTree = "<group>"; };
@@ -149,6 +150,7 @@
 			children = (
 				9D15C97E2BAC6213009610AF /* Sqrt(x).hpp */,
 				9D7FCC862BF4A5A6001EB1BF /* PalindromeNumber.hpp */,
+				9D7FCCAD2BF743F8001EB1BF /* NumberOf1Bits.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
