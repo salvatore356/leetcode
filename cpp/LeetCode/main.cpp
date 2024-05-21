@@ -7,13 +7,14 @@
 
 #include <iostream>
 
-#include "Problems/BinaryTree/BinaryTree.hpp"
-#include "Problems/Math/Math.hpp"
 #include "Problems/Array/Arrays.hpp"
+#include "Problems/BinaryTree/BinaryTree.hpp"
+#include "Problems/BitManipulation/BitManipulation.hpp"
 #include "Problems/HashTable/HashTable.hpp"
 #include "Problems/LinkedList/LinkedList.hpp"
+#include "Problems/Math/Math.hpp"
 
 int main(int argc, const char * argv[]) {
-    NumberOf1Bits::test();
+    ReverseBits::test();
     return 0;
 }

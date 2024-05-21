@@ -9,6 +9,7 @@
 #define TwoSum_hpp
 
 #include <stdio.h>
+#include <unordered_map>
 
 namespace TwoSum {
     vector<int> twoSum(vector<int>& nums, int target) {

@@ -9,6 +9,7 @@
 #define MajorityElement_hpp
 
 #include <stdio.h>
+#include <unordered_map>
 
 namespace MajorityElement {
     int majorityElement(vector<int>& nums) {
