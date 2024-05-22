@@ -29,5 +29,6 @@
 #include "Easy/ClimbingStairs.hpp"
 #include "Easy/PlusOne.hpp"
 #include "Easy/SingleNumber.hpp"
+#include "Easy/AddBinary.hpp"
 
 #endif /* Arrays_hpp */
