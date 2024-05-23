@@ -15,6 +15,7 @@
 #include "Easy/MajorityElement.hpp"
 #include "Easy/BestTimeToBuyAndSellStock.hpp"
 #include "Easy/TwoSum.hpp"
+#include "Easy/SearchInsertPosition.hpp"
 
 #include "Easy/LengthOfLastWord.hpp"
 #include "Easy/LongestCommonPrefix.hpp"

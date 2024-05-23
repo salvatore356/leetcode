@@ -15,6 +15,6 @@
 #include "Problems/Math/Math.hpp"
 
 int main(int argc, const char * argv[]) {
-    AddBinary::test();
+    SearchInsertPosition::test();
     return 0;
 }

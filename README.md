@@ -27,6 +27,7 @@ Happy coding!
 |26| Remove Duplicates from Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveDuplicatesFromSortedArray.hpp) | Easy | [here](https://blog.salvatorelabs.com/26-remove-duplicates-from-sorted-array/) |
 |27| Remove Element | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/27-remove-element/) |
 |28| Find the Index of the First Occurrence in a String | [C++](./cpp/LeetCode/Problems/Array/Easy/FindTheIndexOfTheFirstOccurrenceInAString.hpp) | Easy | [here](https://blog.salvatorelabs.com/28-find-the-index-of-the-first-occurrence-in-a-string/) |
+|35| Search Insert Position | [C++](./cpp/LeetCode/Problems/Array/Easy/SearchInsertPosition.hpp) | Easy | - |
 |58| Length of Last Word | [C++](./cpp/LeetCode/Problems/Array/Easy/LengthOfLastWord.hpp) | Easy | [here](https://blog.salvatorelabs.com/58-length-of-last-word/) |
 |66| Plus One | [C++](./cpp/LeetCode/Problems/Array/Easy/PlusOne.hpp) | Easy | - |
 |67| Add Binary | [C++](./cpp/LeetCode/Problems/Array/Easy/AddBinary.hpp) | Easy | - |
