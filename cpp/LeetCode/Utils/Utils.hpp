@@ -118,6 +118,25 @@ bool compareArrays(vector<T> &A, vector<T> &B) {
     return true;
 }
 
+template <typename T>
+bool compareTrees(TreeNode<T>* tree1, TreeNode<T>* tree2) {
+    // Both trees are empty
+    if (tree1 == NULL && tree2 == NULL) {
+        return true;
+    }
+    
+    
+    // One tree is empty, and the other is not
+    if (tree1 == NULL || tree2 == NULL) {
+        return false;
+    }
+    
+    // Both trees are non-empty, compare values and subtrees
+    return (tree1->val == tree2->val) &&
+           compareTrees(tree1->left, tree2->left) &&
+           compareTrees(tree1->right, tree2->right);
+}
+
 void printArray(vector<int> &arr) {
     for(int i = 0; i < arr.size(); ++i)
         if(arr[i] == INT_MIN) printf("null ");

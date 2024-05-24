@@ -39,6 +39,7 @@
 #include "Easy/RootEqualsSumOfChildren.hpp"
 #include "Easy/EvaluateBooleanBinaryTree.hpp"
 #include "Easy/MaximumDepthOfBinaryTree.hpp"
+#include "Easy/ConvertSortedArrayToBinarySearchTree.hpp"
 
 #include "Medium/KthSmallestElementInABST.hpp"
 #include "Medium/UniqueBinarySearchTreesII.hpp"

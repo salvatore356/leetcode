@@ -15,6 +15,6 @@
 #include "Problems/Math/Math.hpp"
 
 int main(int argc, const char * argv[]) {
-    SearchInsertPosition::test();
+    ConvertSortedArrayToBinarySearchTree::test();
     return 0;
 }
