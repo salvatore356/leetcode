@@ -26,14 +26,7 @@ namespace ConvertSortedArrayToBinarySearchTree {
     }
 
     TreeNode<int>* sortedArrayToBST(vector<int>& nums) {
-        return helper(nums, 0, nums.size() - 1);
-    }
-
-    void printInOrder(TreeNode<int>* node) {
-        if (node == NULL) return;
-        printInOrder(node->left);
-        cout << node->val << " ";
-        printInOrder(node->right);
+        return helper(nums, 0, (int)nums.size() - 1);
     }
 
     void test() {
