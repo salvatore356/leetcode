@@ -119,6 +119,16 @@ bool compareArrays(vector<T> &A, vector<T> &B) {
 }
 
 template <typename T>
+bool compareArrays(vector<T> &A, vector<T> &B, int k) {
+    
+    if(A.size() < k || B.size() < k) return false;
+    
+    for(int i = 0; i < k; ++i)
+        if(A[i] != B[i]) return false;
+    return true;
+}
+
+template <typename T>
 bool compareTrees(TreeNode<T>* tree1, TreeNode<T>* tree2) {
     // Both trees are empty
     if (tree1 == NULL && tree2 == NULL) {

@@ -32,4 +32,6 @@
 #include "Easy/SingleNumber.hpp"
 #include "Easy/AddBinary.hpp"
 
+#include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"
+
 #endif /* Arrays_hpp */
