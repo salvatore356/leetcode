@@ -33,5 +33,6 @@
 #include "Easy/AddBinary.hpp"
 
 #include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"
+#include "Medium/RotateArray.hpp"
 
 #endif /* Arrays_hpp */

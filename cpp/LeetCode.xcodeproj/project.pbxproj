@@ -110,6 +110,7 @@
 		9DC77ACA2AA2025C00D4A5A9 /* RootEqualsSumOfChildren.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RootEqualsSumOfChildren.hpp; sourceTree = "<group>"; };
 		9DC77ACD2AA20E0300D4A5A9 /* EvaluateBooleanBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EvaluateBooleanBinaryTree.hpp; sourceTree = "<group>"; };
 		9DD40ABC2ABA4880007CE5AB /* SumRootToLeafNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SumRootToLeafNumbers.hpp; sourceTree = "<group>"; };
+		9DDB3A002C0DB4CE0047F486 /* RotateArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RotateArray.hpp; sourceTree = "<group>"; };
 		9DE918D32BFDEBDD00A743A4 /* AddBinary.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AddBinary.hpp; sourceTree = "<group>"; };
 		9DE918FD2BFF2C5F00A743A4 /* SearchInsertPosition.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SearchInsertPosition.hpp; sourceTree = "<group>"; };
 		9DE919082C00A3C600A743A4 /* ConvertSortedArrayToBinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConvertSortedArrayToBinarySearchTree.hpp; sourceTree = "<group>"; };
@@ -241,6 +242,7 @@
 			isa = PBXGroup;
 			children = (
 				9DA31E5C2C09EA08001F92A0 /* RemoveDuplicatesFromSortedArrayII.hpp */,
+				9DDB3A002C0DB4CE0047F486 /* RotateArray.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
