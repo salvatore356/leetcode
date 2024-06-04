@@ -34,5 +34,6 @@
 
 #include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"
 #include "Medium/RotateArray.hpp"
+#include "Medium/BestTimeToBuyAndSellStockII.hpp"
 
 #endif /* Arrays_hpp */

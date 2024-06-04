@@ -119,6 +119,7 @@
 		9DF7540E2A7E1C9000876AA7 /* TreeNode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TreeNode.hpp; sourceTree = "<group>"; };
 		9DF754132A7E1D2000876AA7 /* InvertBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = InvertBinaryTree.hpp; sourceTree = "<group>"; };
 		9DF754172A7E235400876AA7 /* Utils.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Utils.hpp; sourceTree = "<group>"; };
+		9DF8C15F2C0F05D000082C16 /* BestTimeToBuyAndSellStockII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BestTimeToBuyAndSellStockII.hpp; sourceTree = "<group>"; };
 		9DFA4A412A93673D00E44DDC /* MergeTwoBinaryTrees.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MergeTwoBinaryTrees.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -243,6 +244,7 @@
 			children = (
 				9DA31E5C2C09EA08001F92A0 /* RemoveDuplicatesFromSortedArrayII.hpp */,
 				9DDB3A002C0DB4CE0047F486 /* RotateArray.hpp */,
+				9DF8C15F2C0F05D000082C16 /* BestTimeToBuyAndSellStockII.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

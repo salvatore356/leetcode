@@ -15,6 +15,6 @@
 #include "Problems/Math/Math.hpp"
 
 int main(int argc, const char * argv[]) {
-    RotateArray::test();
+    BestTimeToBuyAndSellStockII::test();
     return 0;
 }

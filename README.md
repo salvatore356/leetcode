@@ -55,6 +55,7 @@ Happy coding!
 |116| Populating Next Right Pointers in Each Node | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PopulatingNextRightPointersInEachNode.hpp) | Medium | [here](https://blog.salvatorelabs.com/116-populating-next-right-pointers-in-each-node/) |
 |117| Populating Next Right Pointers in Each Node II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PopulatingNextRightPointersInEachNodeII.hpp) | Medium | [here](https://blog.salvatorelabs.com/117-populating-next-right-pointers-in-each-node-ii/) |
 |121| Best Time to Buy and Sell Stock | [C++](./cpp/LeetCode/Problems/Array/Easy/BestTimeToBuyAndSellStock.hpp) | Easy | [here](https://blog.salvatorelabs.com/121-best-time-to-buy-and-sell-stock/) |
+|122| Best Time to Buy and Sell Stock II | [C++](./cpp/LeetCode/Problems/Array/Medium/BestTimeToBuyAndSellStockII.hpp) | Medium | - |
 |129| Sum Root to Leaf Numbers | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/SumRootToLeafNumbers.hpp) | Medium | [here](https://blog.salvatorelabs.com/129-sum-root-to-leaf-numbers/) |
 |136| Single Number | [C++](./cpp/LeetCode/Problems/Array/Easy/SingleNumber.hpp) | Easy | - |
 |141| Linked List Cycle | [C++](./cpp/LeetCode/Problems/LinkedList/Easy/LinkedListCycle.hpp) | Easy | - |
