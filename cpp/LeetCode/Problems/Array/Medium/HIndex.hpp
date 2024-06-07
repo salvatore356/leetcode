@@ -14,14 +14,13 @@ namespace HIndex {
     int hIndex(vector<int>& citations) {
         sort(citations.begin(), citations.end(), greater<int>());
         int citedPapers = 0;
-        int maxCitations = 0;
 
         for (int i = 0; i < citations.size(); ++i) {
-            maxCitations = max(maxCitations, citations[i]);
+
             if(citedPapers >= citations[i]) return citedPapers;
             citedPapers += citations[i] > 0;
         }
-        return min(citedPapers, maxCitations);
+        return citedPapers;
     }
 
     void test() {
