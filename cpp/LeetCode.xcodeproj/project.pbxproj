@@ -87,6 +87,7 @@
 		9D965FFA2BEA26A900C2BB46 /* LinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LinkedList.hpp; sourceTree = "<group>"; };
 		9D975ACA2BBC047500B38A1E /* RemoveDuplicatesFromSortedArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RemoveDuplicatesFromSortedArray.hpp; sourceTree = "<group>"; };
 		9D975B0C2BBD2D2500B38A1E /* MajorityElement.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MajorityElement.hpp; sourceTree = "<group>"; };
+		9DA293CA2C12FDD6009CA968 /* JumpGameII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = JumpGameII.hpp; sourceTree = "<group>"; };
 		9DA31E5C2C09EA08001F92A0 /* RemoveDuplicatesFromSortedArrayII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RemoveDuplicatesFromSortedArrayII.hpp; sourceTree = "<group>"; };
 		9DAC02DE2BFC9FED00A5D3A0 /* BitManipulation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BitManipulation.hpp; sourceTree = "<group>"; };
 		9DAC02E12BFC9FFE00A5D3A0 /* ReverseBits.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ReverseBits.hpp; sourceTree = "<group>"; };
@@ -247,6 +248,7 @@
 				9DDB3A002C0DB4CE0047F486 /* RotateArray.hpp */,
 				9DF8C15F2C0F05D000082C16 /* BestTimeToBuyAndSellStockII.hpp */,
 				9DF8C1682C106E2900082C16 /* JumpGame.hpp */,
+				9DA293CA2C12FDD6009CA968 /* JumpGameII.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
