@@ -17,7 +17,7 @@ namespace HIndex {
 
         for (int i = 0; i < citations.size(); ++i) {
 
-            if(citedPapers >= citations[i]) return citedPapers;
+            if(citedPapers >= citations[i]) break;
             citedPapers += citations[i] > 0;
         }
         return citedPapers;
