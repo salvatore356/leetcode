@@ -15,6 +15,6 @@
 #include "Problems/Math/Math.hpp"
 
 int main(int argc, const char * argv[]) {
-    HIndex::test();
+    InsertDeleteGetRandomO1::test();
     return 0;
 }

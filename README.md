@@ -84,6 +84,7 @@ Happy coding!
 |290| Word Pattern | [C++](./cpp/LeetCode/Problems/HashTable/Easy/WordPattern.hpp) | Easy | - |
 |331| Verify Preorder Serialization of a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/VerifyPreorderSerializationOfABinaryTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/331-verify-preorder-serialization-of-a-binary-tree/) |
 |337| House Robber III | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/HouseRobberIII.hpp) | Medium | [here](https://blog.salvatorelabs.com/337-house-robber-iii/) |
+|380| Insert Delete GetRandom O(1) | [C++](./cpp/LeetCode/Problems/Array/Medium/InsertDeleteGetRandomO1.hpp) | Medium | - |
 |383| Ransom Note | [C++](./cpp/LeetCode/Problems/Array/Easy/RansomNote.hpp) | Easy | - |
 |392| Is Subsequence | [C++](./cpp/LeetCode/Problems/Array/Easy/IsSubsequence.hpp) | Easy | - |
 |404| Sum of Left Leaves | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SumOfLeftLeaves.hpp) | Easy | [here](https://blog.salvatorelabs.com/404-sum-of-left-leaves/) |

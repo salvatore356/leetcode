@@ -36,6 +36,7 @@
 #include "Medium/RotateArray.hpp"
 #include "Medium/BestTimeToBuyAndSellStockII.hpp"
 #include "Medium/HIndex.hpp"
+#include "Medium/InsertDeleteGetRandomO1.hpp"
 #include "Medium/JumpGame.hpp"
 #include "Medium/JumpGameII.hpp"
 
