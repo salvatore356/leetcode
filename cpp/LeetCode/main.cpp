@@ -15,6 +15,6 @@
 #include "Problems/Math/Math.hpp"
 
 int main(int argc, const char * argv[]) {
-    InsertDeleteGetRandomO1::test();
+    ProductOfArrayExceptSelf::test();
     return 0;
 }

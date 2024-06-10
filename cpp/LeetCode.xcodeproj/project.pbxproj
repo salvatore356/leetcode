@@ -86,6 +86,7 @@
 		9D965FF72BEA268800C2BB46 /* LinkedListCycle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LinkedListCycle.hpp; sourceTree = "<group>"; };
 		9D965FFA2BEA26A900C2BB46 /* LinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LinkedList.hpp; sourceTree = "<group>"; };
 		9D9747DC2C166FD80079BD22 /* InsertDeleteGetRandomO1.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = InsertDeleteGetRandomO1.hpp; sourceTree = "<group>"; };
+		9D9747DF2C16F7990079BD22 /* ProductOfArrayExceptSelf.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ProductOfArrayExceptSelf.hpp; sourceTree = "<group>"; };
 		9D975ACA2BBC047500B38A1E /* RemoveDuplicatesFromSortedArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RemoveDuplicatesFromSortedArray.hpp; sourceTree = "<group>"; };
 		9D975B0C2BBD2D2500B38A1E /* MajorityElement.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MajorityElement.hpp; sourceTree = "<group>"; };
 		9DA293CA2C12FDD6009CA968 /* JumpGameII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = JumpGameII.hpp; sourceTree = "<group>"; };
@@ -253,6 +254,7 @@
 				9DA293CA2C12FDD6009CA968 /* JumpGameII.hpp */,
 				9DA293CD2C130BAA009CA968 /* HIndex.hpp */,
 				9D9747DC2C166FD80079BD22 /* InsertDeleteGetRandomO1.hpp */,
+				9D9747DF2C16F7990079BD22 /* ProductOfArrayExceptSelf.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

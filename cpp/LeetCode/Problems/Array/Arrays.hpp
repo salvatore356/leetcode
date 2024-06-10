@@ -32,12 +32,13 @@
 #include "Easy/SingleNumber.hpp"
 #include "Easy/AddBinary.hpp"
 
-#include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"
-#include "Medium/RotateArray.hpp"
 #include "Medium/BestTimeToBuyAndSellStockII.hpp"
 #include "Medium/HIndex.hpp"
 #include "Medium/InsertDeleteGetRandomO1.hpp"
 #include "Medium/JumpGame.hpp"
 #include "Medium/JumpGameII.hpp"
+#include "Medium/ProductOfArrayExceptSelf.hpp"
+#include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"
+#include "Medium/RotateArray.hpp"
 
 #endif /* Arrays_hpp */
