@@ -15,6 +15,6 @@
 #include "Problems/Math/Math.hpp"
 
 int main(int argc, const char * argv[]) {
-    ProductOfArrayExceptSelf::test();
+    GasStation::test();
     return 0;
 }
