@@ -63,6 +63,8 @@
 		9D418AA62AB308220014DB1F /* ConvertSortedListToBinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConvertSortedListToBinarySearchTree.hpp; sourceTree = "<group>"; };
 		9D418AA92AB3087D0014DB1F /* ListNode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ListNode.hpp; sourceTree = "<group>"; };
 		9D418AAC2AB44D450014DB1F /* PathSumII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PathSumII.hpp; sourceTree = "<group>"; };
+		9D5CE3062C1C3A4B00D8BA78 /* Strings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Strings.hpp; sourceTree = "<group>"; };
+		9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IntegerToRoman.hpp; sourceTree = "<group>"; };
 		9D618EFA2AAAFBF1002FF9B0 /* BinaryTreeLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D618EFD2AAB03ED002FF9B0 /* BinaryTreeZigzagLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeZigzagLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D626C152BD96F450049991E /* IsomorphicStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IsomorphicStrings.hpp; sourceTree = "<group>"; };
@@ -227,6 +229,23 @@
 			path = Easy;
 			sourceTree = "<group>";
 		};
+		9D5CE3042C1C3A3C00D8BA78 /* Strings */ = {
+			isa = PBXGroup;
+			children = (
+				9D5CE3082C1C3A5E00D8BA78 /* Medium */,
+				9D5CE3062C1C3A4B00D8BA78 /* Strings.hpp */,
+			);
+			path = Strings;
+			sourceTree = "<group>";
+		};
+		9D5CE3082C1C3A5E00D8BA78 /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
 		9D965FF52BEA267600C2BB46 /* LinkedList */ = {
 			isa = PBXGroup;
 			children = (
@@ -347,6 +366,7 @@
 		9DF754102A7E1CFC00876AA7 /* Problems */ = {
 			isa = PBXGroup;
 			children = (
+				9D5CE3042C1C3A3C00D8BA78 /* Strings */,
 				9DAC02DB2BFC9FC900A5D3A0 /* BitManipulation */,
 				9D965FF52BEA267600C2BB46 /* LinkedList */,
 				9D1DBB1F2BCD4D8200ACA5D7 /* HashTable */,

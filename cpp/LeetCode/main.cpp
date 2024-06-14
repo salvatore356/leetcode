@@ -13,8 +13,9 @@
 #include "Problems/HashTable/HashTable.hpp"
 #include "Problems/LinkedList/LinkedList.hpp"
 #include "Problems/Math/Math.hpp"
+#include "Problems/Strings/Strings.hpp"
 
 int main(int argc, const char * argv[]) {
-    GasStation::test();
+    IntegerToRoman::test();
     return 0;
 }
