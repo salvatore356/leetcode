@@ -11,5 +11,6 @@
 #include <stdio.h>
 
 #include "Medium/IntegerToRoman.hpp"
+#include "Medium/ReverseWordsInAString.hpp"
 
 #endif /* Strings_hpp */
