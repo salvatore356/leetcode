@@ -12,5 +12,6 @@
 
 #include "Medium/IntegerToRoman.hpp"
 #include "Medium/ReverseWordsInAString.hpp"
+#include "Medium/ZigzagConversion.hpp"
 
 #endif /* Strings_hpp */

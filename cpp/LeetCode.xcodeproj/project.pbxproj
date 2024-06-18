@@ -40,6 +40,7 @@
 		9D110E342A8B8F6900535A57 /* BinaryTreeTilt.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeTilt.hpp; sourceTree = "<group>"; };
 		9D1461112ACD51D200A8B72A /* VerifyPreorderSerializationOfABinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = VerifyPreorderSerializationOfABinaryTree.hpp; sourceTree = "<group>"; };
 		9D151FEC2C20455E00F7941E /* ReverseWordsInAString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ReverseWordsInAString.hpp; sourceTree = "<group>"; };
+		9D1520CE2C218B9400F7941E /* ZigzagConversion.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ZigzagConversion.hpp; sourceTree = "<group>"; };
 		9D15C97E2BAC6213009610AF /* Sqrt(x).hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "Sqrt(x).hpp"; sourceTree = "<group>"; };
 		9D15C9832BAC625F009610AF /* Math.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Math.hpp; sourceTree = "<group>"; };
 		9D15C9882BAD8E3C009610AF /* MergeSortedArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MergeSortedArray.hpp; sourceTree = "<group>"; };
@@ -244,6 +245,7 @@
 			children = (
 				9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */,
 				9D151FEC2C20455E00F7941E /* ReverseWordsInAString.hpp */,
+				9D1520CE2C218B9400F7941E /* ZigzagConversion.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

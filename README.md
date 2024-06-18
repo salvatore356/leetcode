@@ -19,6 +19,7 @@ Happy coding!
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
 |1| Two Sum | [C++](./cpp/LeetCode/Problems/Array/Easy/TwoSum.hpp) | Easy | - |
+|6| Zigzag Conversion | [C++](./cpp/LeetCode/Problems/Strings/Medium/ZigzagConversion.hpp) | Medium | - |
 |9| Palindrome Number | [C++](./cpp/LeetCode/Problems/Math/Easy/PalindromeNumber.hpp) | Easy | - |
 |12| Integer to Roman | [C++](./cpp/LeetCode/Problems/Strings/Medium/IntegerToRoman.hpp) | Medium | - |
 |13| Roman to Integer | [C++](./cpp/LeetCode/Problems/HashTable/Easy/RomanToInteger.hpp) | Easy | [here](https://blog.salvatorelabs.com/13-roman-to-integer) |
