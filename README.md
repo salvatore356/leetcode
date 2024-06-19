@@ -67,7 +67,7 @@ Happy coding!
 |144| Binary Tree Preorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePreorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/144-binary-tree-preorder-traversal/) |
 |145| Binary Tree Postorder Traversal | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePostorderTraversal.hpp) | Easy | [here](https://blog.salvatorelabs.com/145-binary-tree-postorder-traversal/) |
 |151| Reverse Words in a String | [C++](./cpp/LeetCode/Problems/Strings/Medium/ReverseWordsInAString.hpp) | Medium | - |
-|167| Two Sum II - Input Array Is Sorted | [C++](./cpp/LeetCode/Problems/Strings/Medium/TwoSumIIInputArrayIsSorted.hpp) | Medium | - |
+|167| Two Sum II - Input Array Is Sorted | [C++](./cpp/LeetCode/Problems/Array/Medium/TwoSumIIInputArrayIsSorted.hpp) | Medium | - |
 |169| Majority Element | [C++](./cpp/LeetCode/Problems/Array/Easy/MajorityElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/169-majority-element/) |
 |173| Binary Search Tree Iterator | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/BinarySearchTreeIterator.hpp) | Medium | [here](https://blog.salvatorelabs.com/173-binary-search-tree-iterator/) |
 |189| Rotate Array | [C++](./cpp/LeetCode/Problems/Array/Medium/RotateArray.hpp) | Medium | - |
