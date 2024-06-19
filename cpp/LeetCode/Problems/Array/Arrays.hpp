@@ -41,6 +41,6 @@
 #include "Medium/ProductOfArrayExceptSelf.hpp"
 #include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"
 #include "Medium/RotateArray.hpp"
-#include "Medium/TwoSumIInputArrayIsSorted.hpp"
+#include "Medium/TwoSumIIInputArrayIsSorted.hpp"
 
 #endif /* Arrays_hpp */

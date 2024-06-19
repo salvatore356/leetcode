@@ -5,12 +5,12 @@
 //  Created by Salvatore on 19/6/24.
 //
 
-#ifndef TwoSumIInputArrayIsSorted_hpp
-#define TwoSumIInputArrayIsSorted_hpp
+#ifndef TwoSumIIInputArrayIsSorted_hpp
+#define TwoSumIIInputArrayIsSorted_hpp
 
 #include <stdio.h>
 
-namespace TwoSumIInputArrayIsSorted {
+namespace TwoSumIIInputArrayIsSorted {
     
     vector<int> twoSum(vector<int>& numbers, int target) {
         int left = 0;
@@ -40,4 +40,4 @@ namespace TwoSumIInputArrayIsSorted {
     }
 }
 
-#endif /* TwoSumIInputArrayIsSorted_hpp */
+#endif /* TwoSumIIInputArrayIsSorted_hpp */

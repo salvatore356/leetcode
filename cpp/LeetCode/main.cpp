@@ -16,6 +16,6 @@
 #include "Problems/Strings/Strings.hpp"
 
 int main(int argc, const char * argv[]) {
-    TwoSumIInputArrayIsSorted::test();
+    TwoSumIIInputArrayIsSorted::test();
     return 0;
 }
