@@ -14,7 +14,7 @@ namespace TwoSumIIInputArrayIsSorted {
     
     vector<int> twoSum(vector<int>& numbers, int target) {
         int left = 0;
-        int right = numbers.size() - 1;
+        int right = (int)numbers.size() - 1;
 
         int temp = left + right ;
         
