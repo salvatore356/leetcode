@@ -32,6 +32,7 @@
 #include "Easy/SingleNumber.hpp"
 #include "Easy/AddBinary.hpp"
 
+#include "Medium/3Sum.hpp"
 #include "Medium/BestTimeToBuyAndSellStockII.hpp"
 #include "Medium/ContainerWithMostWater.hpp"
 #include "Medium/GasStation.hpp"

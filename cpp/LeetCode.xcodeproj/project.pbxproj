@@ -120,6 +120,7 @@
 		9DC77ACA2AA2025C00D4A5A9 /* RootEqualsSumOfChildren.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RootEqualsSumOfChildren.hpp; sourceTree = "<group>"; };
 		9DC77ACD2AA20E0300D4A5A9 /* EvaluateBooleanBinaryTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EvaluateBooleanBinaryTree.hpp; sourceTree = "<group>"; };
 		9DD40ABC2ABA4880007CE5AB /* SumRootToLeafNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SumRootToLeafNumbers.hpp; sourceTree = "<group>"; };
+		9DD7B1962C29A4C0009BE800 /* 3Sum.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 3Sum.hpp; sourceTree = "<group>"; };
 		9DDB3A002C0DB4CE0047F486 /* RotateArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RotateArray.hpp; sourceTree = "<group>"; };
 		9DE1448E2C242EA00073C3D9 /* ContainerWithMostWater.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ContainerWithMostWater.hpp; sourceTree = "<group>"; };
 		9DE918D32BFDEBDD00A743A4 /* AddBinary.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AddBinary.hpp; sourceTree = "<group>"; };
@@ -284,6 +285,7 @@
 				9D9747EB2C1AEDE70079BD22 /* GasStation.hpp */,
 				9D1520D82C22ECC600F7941E /* TwoSumIIInputArrayIsSorted.hpp */,
 				9DE1448E2C242EA00073C3D9 /* ContainerWithMostWater.hpp */,
+				9DD7B1962C29A4C0009BE800 /* 3Sum.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
