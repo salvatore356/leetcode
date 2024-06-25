@@ -17,7 +17,7 @@ namespace LongestCommonPrefix {
         sort(strs.begin(), strs.end());
         string &front = strs.front();
         string &back = strs.back();
-        int maxSize = min(front.size(), back.size());
+        int maxSize = (int)min(front.size(), back.size());
 
         string ans = "";
 

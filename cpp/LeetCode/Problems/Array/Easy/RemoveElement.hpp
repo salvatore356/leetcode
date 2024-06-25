@@ -40,7 +40,7 @@ namespace RemoveElement {
 
     int removeElementB(vector<int>& nums, int val) {
         
-        int i = 0, j = nums.size() - 1, count = 0;
+        int i = 0, j = (int)nums.size() - 1, count = 0;
 
            for(; i <= j; ++i) {
 

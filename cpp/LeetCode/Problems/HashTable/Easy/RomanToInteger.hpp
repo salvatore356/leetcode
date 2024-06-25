@@ -23,7 +23,7 @@ namespace RomanToInteger {
         int currentValue, lastValue = values[s.back()];
         int ans = lastValue;
 
-        for(int i = s.size() - 2; i >= 0; --i) {
+        for(int i = (int)s.size() - 2; i >= 0; --i) {
             currentValue = values[s[i]];
 
             if (currentValue >= lastValue) ans += currentValue;

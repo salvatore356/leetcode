@@ -14,7 +14,7 @@
 namespace MergeSortedArray {
     
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int cur = nums1.size();
+        int cur = (int)nums1.size();
 
         while(m > 0 && n>0){
             
@@ -56,7 +56,7 @@ namespace MergeSortedArray {
         for (int i = 0; i < nums1.size(); ++i) {
             
             merge(
-                nums1[i], m[i], nums2[i], nums2[i].size()
+                nums1[i], m[i], nums2[i], (int)nums2[i].size()
             );
             
             assert(

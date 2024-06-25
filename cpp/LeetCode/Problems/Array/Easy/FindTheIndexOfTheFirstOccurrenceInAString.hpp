@@ -13,7 +13,7 @@
 namespace FindTheIndexOfTheFirstOccurrenceInAString {
     int strStr(string haystack, string needle) {
         
-        int limit = haystack.size() - needle.size() + 1;
+        int limit = (int)(haystack.size() - needle.size() + 1);
         if(limit < 0) return -1;
         int equal = 0;
         int pos = -1;

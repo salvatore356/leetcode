@@ -14,7 +14,7 @@ namespace ProductOfArrayExceptSelf {
 
     vector<int> productExceptSelf(vector<int>& nums) {
         vector<int> prefix(nums.size()), sufix(nums.size());
-        int n = nums.size() - 1;
+        int n = (int)nums.size() - 1;
         prefix[0] = nums.front();
         sufix[n] = nums.back();
 

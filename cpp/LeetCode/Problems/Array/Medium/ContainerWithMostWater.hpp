@@ -14,7 +14,7 @@ namespace ContainerWithMostWater {
     
     int maxArea(vector<int>& height) {
         int left = 0;
-        int right = height.size() - 1;
+        int right = (int)height.size() - 1;
 
         int area = 0;
         

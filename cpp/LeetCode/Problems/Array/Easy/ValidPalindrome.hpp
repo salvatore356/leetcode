@@ -13,9 +13,9 @@
 namespace ValidPalindrome {
     
     bool isPalindrome(string s) {
-        int lastIndex = s.size() - 1;
+        int lastIndex = (int)s.size() - 1;
         int firstIndex = 0;
-        char first, last;
+        char first = '\0', last = '\0';
         while(lastIndex > firstIndex){
             
             for(; firstIndex < s.size(); ++firstIndex){
@@ -28,7 +28,7 @@ namespace ValidPalindrome {
                 if(isalnum(last)) break;
             }
             
-            printf("%c %c\n", first, last);
+            //printf("%c %c\n", first, last);
             if (!isalnum(last) && !isalnum(first)) return true;
             if(first != last) return false;
             ++firstIndex;

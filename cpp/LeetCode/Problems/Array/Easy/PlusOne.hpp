@@ -14,7 +14,7 @@ namespace PlusOne {
     vector<int> plusOne(vector<int>& digits) {
         
         int temp = 1;
-        for ( int i = digits.size() - 1; i >= 0; --i) {
+        for ( int i = (int)digits.size() - 1; i >= 0; --i) {
             digits[i] += temp;
             temp = digits[i] / 10;
             if (temp == 0) break;

@@ -16,6 +16,6 @@
 #include "Problems/Strings/Strings.hpp"
 
 int main(int argc, const char * argv[]) {
-    MinimumSizeSubarraySum::test();
+    LongestSubstringWithoutRepeatingCharacters::test();
     return 0;
 }
