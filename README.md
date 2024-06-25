@@ -19,7 +19,7 @@ Happy coding!
 | # | Title | Solution | Difficulty | Elaboration |
 |---| ----- | -------- | ---------- | ----------- |
 |1| Two Sum | [C++](./cpp/LeetCode/Problems/Array/Easy/TwoSum.hpp) | Easy | - |
-|3| Longest Substring Without Repeating Characters | [C++](./cpp/LeetCode/Problems/Array/Medium/LongestSubstringWithoutRepeatingCharacters.hpp) | Easy | - |
+|3| Longest Substring Without Repeating Characters | [C++](./cpp/LeetCode/Problems/Array/Medium/LongestSubstringWithoutRepeatingCharacters.hpp) | Medium | - |
 |6| Zigzag Conversion | [C++](./cpp/LeetCode/Problems/Strings/Medium/ZigzagConversion.hpp) | Medium | - |
 |9| Palindrome Number | [C++](./cpp/LeetCode/Problems/Math/Easy/PalindromeNumber.hpp) | Easy | - |
 |11| Container With Most Water | [C++](./cpp/LeetCode/Problems/Array/Medium/ContainerWithMostWater.hpp) | Medium | - |
