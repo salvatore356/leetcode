@@ -68,6 +68,7 @@
 		9D418AAC2AB44D450014DB1F /* PathSumII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PathSumII.hpp; sourceTree = "<group>"; };
 		9D4302E82C2AC9ED004E9BAF /* MinimumSizeSubarraySum.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MinimumSizeSubarraySum.hpp; sourceTree = "<group>"; };
 		9D4302EE2C2B6318004E9BAF /* LongestSubstringWithoutRepeatingCharacters.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LongestSubstringWithoutRepeatingCharacters.hpp; sourceTree = "<group>"; };
+		9D4302F12C2C3104004E9BAF /* ValidSudoku.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ValidSudoku.hpp; sourceTree = "<group>"; };
 		9D5CE3062C1C3A4B00D8BA78 /* Strings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Strings.hpp; sourceTree = "<group>"; };
 		9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IntegerToRoman.hpp; sourceTree = "<group>"; };
 		9D618EFA2AAAFBF1002FF9B0 /* BinaryTreeLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversal.hpp; sourceTree = "<group>"; };
@@ -290,6 +291,7 @@
 				9DD7B1962C29A4C0009BE800 /* 3Sum.hpp */,
 				9D4302E82C2AC9ED004E9BAF /* MinimumSizeSubarraySum.hpp */,
 				9D4302EE2C2B6318004E9BAF /* LongestSubstringWithoutRepeatingCharacters.hpp */,
+				9D4302F12C2C3104004E9BAF /* ValidSudoku.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

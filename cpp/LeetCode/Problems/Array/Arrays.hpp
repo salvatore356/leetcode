@@ -46,5 +46,6 @@
 #include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"
 #include "Medium/RotateArray.hpp"
 #include "Medium/TwoSumIIInputArrayIsSorted.hpp"
+#include "Medium/ValidSudoku.hpp"
 
 #endif /* Arrays_hpp */
