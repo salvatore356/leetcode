@@ -16,6 +16,6 @@
 #include "Problems/Strings/Strings.hpp"
 
 int main(int argc, const char * argv[]) {
-    ValidSudoku::test();
+    SpiralMatrix::test();
     return 0;
 }
