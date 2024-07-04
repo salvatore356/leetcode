@@ -71,6 +71,7 @@
 		9D4302F12C2C3104004E9BAF /* ValidSudoku.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ValidSudoku.hpp; sourceTree = "<group>"; };
 		9D4302F82C2D906D004E9BAF /* SpiralMatrix.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SpiralMatrix.hpp; sourceTree = "<group>"; };
 		9D4303082C353E66004E9BAF /* RotateImage.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RotateImage.hpp; sourceTree = "<group>"; };
+		9D43030E2C36B703004E9BAF /* SetMatrixZeroes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SetMatrixZeroes.hpp; sourceTree = "<group>"; };
 		9D5CE3062C1C3A4B00D8BA78 /* Strings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Strings.hpp; sourceTree = "<group>"; };
 		9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IntegerToRoman.hpp; sourceTree = "<group>"; };
 		9D618EFA2AAAFBF1002FF9B0 /* BinaryTreeLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversal.hpp; sourceTree = "<group>"; };
@@ -296,6 +297,7 @@
 				9D4302F12C2C3104004E9BAF /* ValidSudoku.hpp */,
 				9D4302F82C2D906D004E9BAF /* SpiralMatrix.hpp */,
 				9D4303082C353E66004E9BAF /* RotateImage.hpp */,
+				9D43030E2C36B703004E9BAF /* SetMatrixZeroes.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

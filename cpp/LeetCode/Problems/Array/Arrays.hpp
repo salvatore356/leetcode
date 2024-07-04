@@ -46,6 +46,7 @@
 #include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"
 #include "Medium/RotateArray.hpp"
 #include "Medium/RotateImage.hpp"
+#include "Medium/SetMatrixZeroes.hpp"
 #include "Medium/SpiralMatrix.hpp"
 #include "Medium/TwoSumIIInputArrayIsSorted.hpp"
 #include "Medium/ValidSudoku.hpp"
