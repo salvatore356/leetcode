@@ -95,6 +95,7 @@ Happy coding!
 |242| Valid Anagram | [C++](./cpp/LeetCode/Problems/Array/Easy/ValidAnagram.hpp) | Easy | - |
 |257| Binary Tree Paths | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/BinaryTreePaths.hpp) | Easy | [here](https://blog.salvatorelabs.com/257-binary-tree-paths/) |
 |274| H-Index | [C++](./cpp/LeetCode/Problems/Array/Medium/HIndex.hpp) | Medium | - |
+|289| Game of Life | [C++](./cpp/LeetCode/Problems/Array/Medium/GameOfLife.hpp) | Medium | - |
 |290| Word Pattern | [C++](./cpp/LeetCode/Problems/HashTable/Easy/WordPattern.hpp) | Easy | - |
 |331| Verify Preorder Serialization of a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/VerifyPreorderSerializationOfABinaryTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/331-verify-preorder-serialization-of-a-binary-tree/) |
 |337| House Robber III | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/HouseRobberIII.hpp) | Medium | [here](https://blog.salvatorelabs.com/337-house-robber-iii/) |

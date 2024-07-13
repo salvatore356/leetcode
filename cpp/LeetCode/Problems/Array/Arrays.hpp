@@ -35,6 +35,7 @@
 #include "Medium/3Sum.hpp"
 #include "Medium/BestTimeToBuyAndSellStockII.hpp"
 #include "Medium/ContainerWithMostWater.hpp"
+#include "Medium/GameOfLife.hpp"
 #include "Medium/GasStation.hpp"
 #include "Medium/HIndex.hpp"
 #include "Medium/InsertDeleteGetRandomO1.hpp"

@@ -60,6 +60,7 @@
 		9D1EEEAC2BDAE14500098259 /* WordPattern.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = WordPattern.hpp; sourceTree = "<group>"; };
 		9D215F482AD7F77700FBED32 /* PathSumIII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PathSumIII.hpp; sourceTree = "<group>"; };
 		9D215F4B2AD800F100FBED32 /* HouseRobberIII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HouseRobberIII.hpp; sourceTree = "<group>"; };
+		9D2D80062C42736A005A1613 /* GameOfLife.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameOfLife.hpp; sourceTree = "<group>"; };
 		9D317A652AB1A70000F629EB /* BinaryTreeLevelOrderTraversalII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversalII.hpp; sourceTree = "<group>"; };
 		9D32D78C2AB87DED00D04446 /* FlattenBinaryTreeToLinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlattenBinaryTreeToLinkedList.hpp; sourceTree = "<group>"; };
 		9D365D7E2BC3EFC300B0CD22 /* BestTimeToBuyAndSellStock.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BestTimeToBuyAndSellStock.hpp; sourceTree = "<group>"; };
@@ -298,6 +299,7 @@
 				9D4302F82C2D906D004E9BAF /* SpiralMatrix.hpp */,
 				9D4303082C353E66004E9BAF /* RotateImage.hpp */,
 				9D43030E2C36B703004E9BAF /* SetMatrixZeroes.hpp */,
+				9D2D80062C42736A005A1613 /* GameOfLife.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
