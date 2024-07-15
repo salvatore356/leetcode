@@ -15,4 +15,6 @@
 #include "Easy/HappyNumber.hpp"
 #include "Easy/ContainsDuplicateII.hpp"
 
+#include "Medium/GroupAnagrams.hpp"
+
 #endif /* HashTable_hpp */

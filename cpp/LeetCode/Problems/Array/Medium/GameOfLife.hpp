@@ -50,8 +50,8 @@ namespace GameOfLife {
     }
 
     void gameOfLife(vector<vector<int>>& board) {
-        int rows = board.size();
-        int cols = board.front().size();
+        int rows = (int)board.size();
+        int cols = (int)board.front().size();
 
         auto copy = board;
 

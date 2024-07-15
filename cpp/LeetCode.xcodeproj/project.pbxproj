@@ -75,6 +75,7 @@
 		9D43030E2C36B703004E9BAF /* SetMatrixZeroes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SetMatrixZeroes.hpp; sourceTree = "<group>"; };
 		9D5CE3062C1C3A4B00D8BA78 /* Strings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Strings.hpp; sourceTree = "<group>"; };
 		9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IntegerToRoman.hpp; sourceTree = "<group>"; };
+		9D609A182C45125A00CC1B42 /* GroupAnagrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GroupAnagrams.hpp; sourceTree = "<group>"; };
 		9D618EFA2AAAFBF1002FF9B0 /* BinaryTreeLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D618EFD2AAB03ED002FF9B0 /* BinaryTreeZigzagLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeZigzagLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D626C152BD96F450049991E /* IsomorphicStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IsomorphicStrings.hpp; sourceTree = "<group>"; };
@@ -224,6 +225,7 @@
 		9D1DBB1F2BCD4D8200ACA5D7 /* HashTable */ = {
 			isa = PBXGroup;
 			children = (
+				9D609A162C45124C00CC1B42 /* Medium */,
 				9D1DBB202BCD4D8B00ACA5D7 /* Easy */,
 				9D1DBB252BCD4DC600ACA5D7 /* HashTable.hpp */,
 			);
@@ -256,6 +258,14 @@
 				9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */,
 				9D151FEC2C20455E00F7941E /* ReverseWordsInAString.hpp */,
 				9D1520CE2C218B9400F7941E /* ZigzagConversion.hpp */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
+		9D609A162C45124C00CC1B42 /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				9D609A182C45125A00CC1B42 /* GroupAnagrams.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

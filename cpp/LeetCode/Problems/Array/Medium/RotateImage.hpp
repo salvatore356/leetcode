@@ -13,7 +13,7 @@
 namespace RotateImage {
     void rotate(vector<vector<int>>& matrix) {
         
-        int w = matrix.size();
+        int w = (int)matrix.size();
         for (int r = 0; r < w - 1; ++r)
             for (int c = r + 1; c < w; ++c)
                 swap(matrix[r][c], matrix[c][r]);
