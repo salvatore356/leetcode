@@ -68,6 +68,7 @@ Happy coding!
 |117| Populating Next Right Pointers in Each Node II | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PopulatingNextRightPointersInEachNodeII.hpp) | Medium | [here](https://blog.salvatorelabs.com/117-populating-next-right-pointers-in-each-node-ii/) |
 |121| Best Time to Buy and Sell Stock | [C++](./cpp/LeetCode/Problems/Array/Easy/BestTimeToBuyAndSellStock.hpp) | Easy | [here](https://blog.salvatorelabs.com/121-best-time-to-buy-and-sell-stock/) |
 |122| Best Time to Buy and Sell Stock II | [C++](./cpp/LeetCode/Problems/Array/Medium/BestTimeToBuyAndSellStockII.hpp) | Medium | - |
+|128| Longest Consecutive Sequence | [C++](./cpp/LeetCode/Problems/Array/Medium/LongestConsecutiveSequence.hpp) | Medium | - |
 |129| Sum Root to Leaf Numbers | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/SumRootToLeafNumbers.hpp) | Medium | [here](https://blog.salvatorelabs.com/129-sum-root-to-leaf-numbers/) |
 |134| Gas Station | [C++](./cpp/LeetCode/Problems/Array/Medium/GasStation.hpp) | Medium | - |
 |136| Single Number | [C++](./cpp/LeetCode/Problems/Array/Easy/SingleNumber.hpp) | Easy | - |

@@ -76,6 +76,7 @@
 		9D5CE3062C1C3A4B00D8BA78 /* Strings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Strings.hpp; sourceTree = "<group>"; };
 		9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IntegerToRoman.hpp; sourceTree = "<group>"; };
 		9D609A182C45125A00CC1B42 /* GroupAnagrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GroupAnagrams.hpp; sourceTree = "<group>"; };
+		9D609A222C466B7F00CC1B42 /* LongestConsecutiveSequence.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LongestConsecutiveSequence.hpp; sourceTree = "<group>"; };
 		9D618EFA2AAAFBF1002FF9B0 /* BinaryTreeLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D618EFD2AAB03ED002FF9B0 /* BinaryTreeZigzagLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeZigzagLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D626C152BD96F450049991E /* IsomorphicStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IsomorphicStrings.hpp; sourceTree = "<group>"; };
@@ -310,6 +311,7 @@
 				9D4303082C353E66004E9BAF /* RotateImage.hpp */,
 				9D43030E2C36B703004E9BAF /* SetMatrixZeroes.hpp */,
 				9D2D80062C42736A005A1613 /* GameOfLife.hpp */,
+				9D609A222C466B7F00CC1B42 /* LongestConsecutiveSequence.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
