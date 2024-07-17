@@ -39,6 +39,7 @@ Happy coding!
 |49| Group Anagrams | [C++](./cpp/LeetCode/Problems/HashTable/Medium/GroupAnagrams.hpp) | Medium | - |
 |54| Spiral Matrix | [C++](./cpp/LeetCode/Problems/Array/Medium/SpiralMatrix.hpp) | Medium | - |
 |55| Jump Game | [C++](./cpp/LeetCode/Problems/Array/Medium/JumpGame.hpp) | Medium | - |
+|56| Merge Intervals | [C++](./cpp/LeetCode/Problems/Array/Medium/MergeIntervals.hpp) | Medium | - |
 |58| Length of Last Word | [C++](./cpp/LeetCode/Problems/Array/Easy/LengthOfLastWord.hpp) | Easy | [here](https://blog.salvatorelabs.com/58-length-of-last-word/) |
 |66| Plus One | [C++](./cpp/LeetCode/Problems/Array/Easy/PlusOne.hpp) | Easy | - |
 |67| Add Binary | [C++](./cpp/LeetCode/Problems/Array/Easy/AddBinary.hpp) | Easy | - |
