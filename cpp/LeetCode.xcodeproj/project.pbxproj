@@ -78,6 +78,7 @@
 		9D609A182C45125A00CC1B42 /* GroupAnagrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GroupAnagrams.hpp; sourceTree = "<group>"; };
 		9D609A222C466B7F00CC1B42 /* LongestConsecutiveSequence.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LongestConsecutiveSequence.hpp; sourceTree = "<group>"; };
 		9D609A6A2C47B88200CC1B42 /* MergeIntervals.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MergeIntervals.hpp; sourceTree = "<group>"; };
+		9D609A702C48F4D800CC1B42 /* InsertInterval.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = InsertInterval.hpp; sourceTree = "<group>"; };
 		9D618EFA2AAAFBF1002FF9B0 /* BinaryTreeLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D618EFD2AAB03ED002FF9B0 /* BinaryTreeZigzagLevelOrderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryTreeZigzagLevelOrderTraversal.hpp; sourceTree = "<group>"; };
 		9D626C152BD96F450049991E /* IsomorphicStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IsomorphicStrings.hpp; sourceTree = "<group>"; };
@@ -314,6 +315,7 @@
 				9D2D80062C42736A005A1613 /* GameOfLife.hpp */,
 				9D609A222C466B7F00CC1B42 /* LongestConsecutiveSequence.hpp */,
 				9D609A6A2C47B88200CC1B42 /* MergeIntervals.hpp */,
+				9D609A702C48F4D800CC1B42 /* InsertInterval.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

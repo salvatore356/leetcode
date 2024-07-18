@@ -16,6 +16,6 @@
 #include "Problems/Strings/Strings.hpp"
 
 int main(int argc, const char * argv[]) {
-    MergeIntervals::test();
+    InsertInterval::test();
     return 0;
 }

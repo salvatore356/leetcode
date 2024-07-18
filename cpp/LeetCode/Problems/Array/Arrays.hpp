@@ -39,6 +39,7 @@
 #include "Medium/GasStation.hpp"
 #include "Medium/HIndex.hpp"
 #include "Medium/InsertDeleteGetRandomO1.hpp"
+#include "Medium/InsertInterval.hpp"
 #include "Medium/JumpGame.hpp"
 #include "Medium/JumpGameII.hpp"
 #include "Medium/LongestConsecutiveSequence.hpp"
