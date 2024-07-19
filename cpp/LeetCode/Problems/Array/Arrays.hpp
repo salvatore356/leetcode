@@ -45,6 +45,7 @@
 #include "Medium/LongestConsecutiveSequence.hpp"
 #include "Medium/LongestSubstringWithoutRepeatingCharacters.hpp"
 #include "Medium/MergeIntervals.hpp"
+#include "Medium/MinimumNumberOfArrowsToBurstBalloons.hpp"
 #include "Medium/MinimumSizeSubarraySum.hpp"
 #include "Medium/ProductOfArrayExceptSelf.hpp"
 #include "Medium/RemoveDuplicatesFromSortedArrayII.hpp"

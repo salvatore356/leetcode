@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9D03CF432C4A5F710049EF11 /* MinimumNumberOfArrowsToBurstBalloons.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MinimumNumberOfArrowsToBurstBalloons.hpp; sourceTree = "<group>"; };
 		9D07CDAF2AAF2873004F929B /* ConstructBinaryTreeFromPreorderAndInorderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConstructBinaryTreeFromPreorderAndInorderTraversal.hpp; sourceTree = "<group>"; };
 		9D07CDB52AAF3006004F929B /* ConstructBinaryTreeFromInorderAndPostorderTraversal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConstructBinaryTreeFromInorderAndPostorderTraversal.hpp; sourceTree = "<group>"; };
 		9D09377A2A8CF32900B9A545 /* SubtreeOfAnotherTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubtreeOfAnotherTree.hpp; sourceTree = "<group>"; };
@@ -316,6 +317,7 @@
 				9D609A222C466B7F00CC1B42 /* LongestConsecutiveSequence.hpp */,
 				9D609A6A2C47B88200CC1B42 /* MergeIntervals.hpp */,
 				9D609A702C48F4D800CC1B42 /* InsertInterval.hpp */,
+				9D03CF432C4A5F710049EF11 /* MinimumNumberOfArrowsToBurstBalloons.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

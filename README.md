@@ -108,6 +108,7 @@ Happy coding!
 |392| Is Subsequence | [C++](./cpp/LeetCode/Problems/Array/Easy/IsSubsequence.hpp) | Easy | - |
 |404| Sum of Left Leaves | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SumOfLeftLeaves.hpp) | Easy | [here](https://blog.salvatorelabs.com/404-sum-of-left-leaves/) |
 |437| Path Sum III | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PathSumIII.hpp) | Medium | [here](https://blog.salvatorelabs.com/437-path-sum-iii/) |
+|452| Minimum Number of Arrows to Burst Balloons | [C++](./cpp/LeetCode/Problems/Array/Medium/MinimumNumberOfArrowsToBurstBalloons.hpp) | Medium | - |
 |501| Find Mode in Binary Search Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/FindModeInBinarySearchTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/501-find-mode-in-binary-search-tree/) |
 |530| Minimum Absolute Difference in BST | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/MinimumAbsoluteDifferenceInBST.hpp) | Easy | [here](https://blog.salvatorelabs.com/530-minimum-absolute-difference-in-bst/) |
 |543| Diameter of Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/DiameterOfBinaryTree.hpp) | Easy | [here](https://blog.salvatorelabs.com/543-diameter-of-binary-tree/) |

@@ -16,6 +16,6 @@
 #include "Problems/Strings/Strings.hpp"
 
 int main(int argc, const char * argv[]) {
-    InsertInterval::test();
+    MinimumNumberOfArrowsToBurstBalloons::test();
     return 0;
 }
