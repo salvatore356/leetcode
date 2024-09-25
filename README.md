@@ -106,6 +106,7 @@ Happy coding!
 |380| Insert Delete GetRandom O(1) | [C++](./cpp/LeetCode/Problems/Array/Medium/InsertDeleteGetRandomO1.hpp) | Medium | - |
 |383| Ransom Note | [C++](./cpp/LeetCode/Problems/Array/Easy/RansomNote.hpp) | Easy | - |
 |392| Is Subsequence | [C++](./cpp/LeetCode/Problems/Array/Easy/IsSubsequence.hpp) | Easy | - |
+|401| Binary Watch | [C++](./cpp/LeetCode/Problems/Backtracking/Easy/BinaryWatch.hpp) | Easy | - |
 |404| Sum of Left Leaves | [C++](./cpp/LeetCode/Problems/BinaryTree/Easy/SumOfLeftLeaves.hpp) | Easy | [here](https://blog.salvatorelabs.com/404-sum-of-left-leaves/) |
 |437| Path Sum III | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/PathSumIII.hpp) | Medium | [here](https://blog.salvatorelabs.com/437-path-sum-iii/) |
 |452| Minimum Number of Arrows to Burst Balloons | [C++](./cpp/LeetCode/Problems/Array/Medium/MinimumNumberOfArrowsToBurstBalloons.hpp) | Medium | - |
