@@ -19,7 +19,7 @@
 
 
 int main(int argc, const char * argv[]) {
-    BinaryWatch::test();
+    LetterCombinationsOfAPhoneNumber::test();
     return 0;
 }
 

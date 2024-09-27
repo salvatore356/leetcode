@@ -12,5 +12,6 @@
 
 #include "Easy/BinaryWatch.hpp"
 
+#include "Medium/LetterCombinationsOfAPhoneNumber.hpp"
 
 #endif /* Backtracking_hpp */
