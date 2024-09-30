@@ -19,7 +19,7 @@
 
 
 int main(int argc, const char * argv[]) {
-    LetterCombinationsOfAPhoneNumber::test();
+    GenerateParentheses::test();
     return 0;
 }
 

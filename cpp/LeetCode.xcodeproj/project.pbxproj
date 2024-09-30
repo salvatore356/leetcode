@@ -77,6 +77,7 @@
 		9D507A892CA43D23008CB080 /* BinaryWatch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryWatch.hpp; sourceTree = "<group>"; };
 		9D507A8C2CA43D3D008CB080 /* Backtracking.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Backtracking.hpp; sourceTree = "<group>"; };
 		9D507A942CA6AD84008CB080 /* LetterCombinationsOfAPhoneNumber.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LetterCombinationsOfAPhoneNumber.hpp; sourceTree = "<group>"; };
+		9D507A9D2CAAB116008CB080 /* GenerateParentheses.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GenerateParentheses.hpp; sourceTree = "<group>"; };
 		9D5CE3062C1C3A4B00D8BA78 /* Strings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Strings.hpp; sourceTree = "<group>"; };
 		9D5CE30A2C1C3A7200D8BA78 /* IntegerToRoman.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IntegerToRoman.hpp; sourceTree = "<group>"; };
 		9D609A182C45125A00CC1B42 /* GroupAnagrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GroupAnagrams.hpp; sourceTree = "<group>"; };
@@ -272,6 +273,7 @@
 			isa = PBXGroup;
 			children = (
 				9D507A942CA6AD84008CB080 /* LetterCombinationsOfAPhoneNumber.hpp */,
+				9D507A9D2CAAB116008CB080 /* GenerateParentheses.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

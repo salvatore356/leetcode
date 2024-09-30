@@ -13,5 +13,6 @@
 #include "Easy/BinaryWatch.hpp"
 
 #include "Medium/LetterCombinationsOfAPhoneNumber.hpp"
+#include "Medium/GenerateParentheses.hpp"
 
 #endif /* Backtracking_hpp */
