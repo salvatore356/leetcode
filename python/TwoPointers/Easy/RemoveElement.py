@@ -1,21 +1,19 @@
 import unittest
 
 class Solution(object):
-    def removeDuplicates(self, nums):
+    def removeElement(self, nums, val):
         """
         :type nums: List[int]
+        :type val: int
         :rtype: int
         """
-        if not nums:
-            return 0
-        
-        slow = 1 #count element not duplicates
+        slow = 0 #count elements not equal to val
 
-        for fast in range(1, len(nums)):
-            if nums[fast] != nums[fast-1]:
+        for fast in range(len(nums)):
+            if nums[fast] != val:
                 nums[slow] = nums[fast]
                 slow += 1
-
+        
         return slow
 
 class TestRemoveDuplicates(unittest.TestCase):
@@ -24,15 +22,15 @@ class TestRemoveDuplicates(unittest.TestCase):
         solution = Solution()
         
         test_cases = [
-            ([1, 1, 2], [1, 2]),
-            ([0,0,1,1,1,2,2,3,3,4], [0, 1, 2, 3, 4]),
-            ([], []),
-            ([1, 2, 3], [1, 2, 3]),
+            ([3,2,2,3], [2, 2], 3),
+            ([0,1,2,2,3,0,4,2], [0,1,3,0,4], 2),
+            ([], [], 3),
+            ([1, 2, 3], [1, 2, 3], 4),
         ]
         
-        for nums, expectedNums in test_cases:
+        for nums, expectedNums, val in test_cases:
             # Run the method and get the result
-            k = solution.removeDuplicates(nums)
+            k = solution.removeElement(nums, val)
             
             # Check that the length of unique elements matches expected length
             self.assertEqual(k, len(expectedNums), f"Failed on input: {nums}")

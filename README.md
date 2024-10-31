@@ -33,7 +33,7 @@ Happy coding!
 |22| Generate Parentheses | [C++](./cpp/LeetCode/Problems/Backtracking/Medium/GenerateParentheses.hpp) | Medium | - |
 |26| Remove Duplicates from Sorted Array | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveDuplicatesFromSortedArray.hpp) [Python](./python/TwoPointers/Easy/RemoveDuplicatesFromSortedArray.py) | Easy | [here](https://blog.salvatorelabs.com/26-remove-duplicates-from-sorted-array/) |
 |27| Remove Element | [C++](./cpp/LeetCode/Problems/Array/Easy/RemoveElement.hpp) | Easy | [here](https://blog.salvatorelabs.com/27-remove-element/) |
-|28| Find the Index of the First Occurrence in a String | [C++](./cpp/LeetCode/Problems/Array/Easy/FindTheIndexOfTheFirstOccurrenceInAString.hpp) | Easy | [here](https://blog.salvatorelabs.com/28-find-the-index-of-the-first-occurrence-in-a-string/) |
+|28| Find the Index of the First Occurrence in a String | [C++](./cpp/LeetCode/Problems/Array/Easy/FindTheIndexOfTheFirstOccurrenceInAString.hpp) [Python](./python/TwoPointers/Easy/RemoveElement.py) | Easy | [here](https://blog.salvatorelabs.com/28-find-the-index-of-the-first-occurrence-in-a-string/) |
 |35| Search Insert Position | [C++](./cpp/LeetCode/Problems/Array/Easy/SearchInsertPosition.hpp) | Easy | - |
 |36| Valid Sudoku | [C++](./cpp/LeetCode/Problems/Array/Medium/ValidSudoku.hpp) | Medium | - |
 |45| Jump Game II | [C++](./cpp/LeetCode/Problems/Array/Medium/JumpGameII.hpp) | Medium | - |
