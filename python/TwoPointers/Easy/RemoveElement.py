@@ -16,9 +16,9 @@ class Solution(object):
         
         return slow
 
-class TestRemoveDuplicates(unittest.TestCase):
+class TestRemoveElement(unittest.TestCase):
 
-    def test_remove_duplicates(self):
+    def test_remove_element(self):
         solution = Solution()
         
         test_cases = [
