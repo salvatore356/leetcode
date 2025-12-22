@@ -15,11 +15,12 @@
 #include "Problems/Math/Math.hpp"
 #include "Problems/Strings/Strings.hpp"
 #include "Problems/Backtracking/Backtracking.hpp"
+#include "Problems/TwoPointers/TwoPointers.hpp"
 
 
 
 int main(int argc, const char * argv[]) {
-    GenerateParentheses::test();
+    ReverseString::test();
     return 0;
 }
 
