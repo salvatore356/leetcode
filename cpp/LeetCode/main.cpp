@@ -20,7 +20,7 @@
 
 
 int main(int argc, const char * argv[]) {
-    ReverseString::test();
+    ReverseVowelsOfAString::test();
     return 0;
 }
 

@@ -11,5 +11,6 @@
 #include <stdio.h>
 
 #include "Easy/ReverseString.hpp"
+#include "Easy/ReverseVowelsOfAString.hpp"
 
 #endif /* TwoPointers_hpp */

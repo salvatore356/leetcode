@@ -106,6 +106,7 @@ Happy coding!
 |331| Verify Preorder Serialization of a Binary Tree | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/VerifyPreorderSerializationOfABinaryTree.hpp) | Medium | [here](https://blog.salvatorelabs.com/331-verify-preorder-serialization-of-a-binary-tree/) |
 |337| House Robber III | [C++](./cpp/LeetCode/Problems/BinaryTree/Medium/HouseRobberIII.hpp) | Medium | [here](https://blog.salvatorelabs.com/337-house-robber-iii/) |
 |344| Reverse String | [C++](./cpp/LeetCode/Problems/TwoPointers/Easy/ReverseString.hpp) [Python](./python/TwoPointers/Easy/ReverseString.py) | Easy | - |
+|345| Reverse Vowels of a String | [C++](./cpp/LeetCode/Problems/TwoPointers/Easy/ReverseVowelsOfAString.hpp) | Easy | - |
 |380| Insert Delete GetRandom O(1) | [C++](./cpp/LeetCode/Problems/Array/Medium/InsertDeleteGetRandomO1.hpp) | Medium | - |
 |383| Ransom Note | [C++](./cpp/LeetCode/Problems/Array/Easy/RansomNote.hpp) | Easy | - |
 |392| Is Subsequence | [C++](./cpp/LeetCode/Problems/Array/Easy/IsSubsequence.hpp) | Easy | - |

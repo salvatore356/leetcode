@@ -141,6 +141,7 @@
 		9DE1448E2C242EA00073C3D9 /* ContainerWithMostWater.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ContainerWithMostWater.hpp; sourceTree = "<group>"; };
 		9DE88D342EF98191004A9272 /* ReverseString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ReverseString.hpp; sourceTree = "<group>"; };
 		9DE88D352EF98271004A9272 /* TwoPointers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TwoPointers.hpp; sourceTree = "<group>"; };
+		9DE88D382EF9E17C004A9272 /* ReverseVowelsOfAString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ReverseVowelsOfAString.hpp; sourceTree = "<group>"; };
 		9DE918D32BFDEBDD00A743A4 /* AddBinary.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AddBinary.hpp; sourceTree = "<group>"; };
 		9DE918FD2BFF2C5F00A743A4 /* SearchInsertPosition.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SearchInsertPosition.hpp; sourceTree = "<group>"; };
 		9DE919082C00A3C600A743A4 /* ConvertSortedArrayToBinarySearchTree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ConvertSortedArrayToBinarySearchTree.hpp; sourceTree = "<group>"; };
@@ -415,6 +416,7 @@
 			isa = PBXGroup;
 			children = (
 				9DE88D342EF98191004A9272 /* ReverseString.hpp */,
+				9DE88D382EF9E17C004A9272 /* ReverseVowelsOfAString.hpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
